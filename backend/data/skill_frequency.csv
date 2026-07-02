@@ -1,33 +1,3137 @@
-Skill,Count
-Git,59
-Excel,42
-REST,23
-Python,5
-AWS,5
-SQL,3
-JavaScript,3
-Azure,1
-Power BI,1
-Docker,0
-Flask,0
-FastAPI,0
-GCP,0
-Django,0
-Pandas,0
-NumPy,0
-React,0
-Linux,0
-Kubernetes,0
-TypeScript,0
-MySQL,0
-Node.js,0
-MongoDB,0
-PostgreSQL,0
-Spark,0
-Kafka,0
-Redis,0
-Airflow,0
-PyTorch,0
-TensorFlow,0
-Tableau,0
-GraphQL,0
+Role,Skill,Count
+,Python,0
+,SQL,0
+,Pandas,0
+,NumPy,0
+,FastAPI,0
+,Flask,0
+,Django,0
+,Docker,0
+,Kubernetes,0
+,AWS,0
+,Azure,0
+,GCP,0
+,Git,0
+,Linux,0
+,React,0
+,JavaScript,0
+,TypeScript,0
+,Node.js,0
+,MongoDB,0
+,PostgreSQL,0
+,MySQL,0
+,Redis,0
+,Kafka,0
+,Spark,0
+,Airflow,0
+,TensorFlow,0
+,PyTorch,0
+,Power BI,0
+,Tableau,0
+,Excel,0
+,REST,0
+,GraphQL,0
+1419,Python,0
+1419,SQL,0
+1419,Pandas,0
+1419,NumPy,0
+1419,FastAPI,0
+1419,Flask,0
+1419,Django,0
+1419,Docker,0
+1419,Kubernetes,0
+1419,AWS,0
+1419,Azure,0
+1419,GCP,0
+1419,Git,0
+1419,Linux,0
+1419,React,0
+1419,JavaScript,0
+1419,TypeScript,0
+1419,Node.js,0
+1419,MongoDB,0
+1419,PostgreSQL,0
+1419,MySQL,0
+1419,Redis,0
+1419,Kafka,0
+1419,Spark,0
+1419,Airflow,0
+1419,TensorFlow,0
+1419,PyTorch,0
+1419,Power BI,0
+1419,Tableau,0
+1419,Excel,0
+1419,REST,0
+1419,GraphQL,0
+1811,Python,0
+1811,SQL,0
+1811,Pandas,0
+1811,NumPy,0
+1811,FastAPI,0
+1811,Flask,0
+1811,Django,0
+1811,Docker,0
+1811,Kubernetes,0
+1811,AWS,0
+1811,Azure,0
+1811,GCP,0
+1811,Git,0
+1811,Linux,0
+1811,React,0
+1811,JavaScript,0
+1811,TypeScript,0
+1811,Node.js,0
+1811,MongoDB,0
+1811,PostgreSQL,0
+1811,MySQL,0
+1811,Redis,0
+1811,Kafka,0
+1811,Spark,0
+1811,Airflow,0
+1811,TensorFlow,0
+1811,PyTorch,0
+1811,Power BI,0
+1811,Tableau,0
+1811,Excel,0
+1811,REST,0
+1811,GraphQL,0
+1838,Python,0
+1838,SQL,0
+1838,Pandas,0
+1838,NumPy,0
+1838,FastAPI,0
+1838,Flask,0
+1838,Django,0
+1838,Docker,0
+1838,Kubernetes,0
+1838,AWS,0
+1838,Azure,0
+1838,GCP,0
+1838,Git,0
+1838,Linux,0
+1838,React,0
+1838,JavaScript,0
+1838,TypeScript,0
+1838,Node.js,0
+1838,MongoDB,0
+1838,PostgreSQL,0
+1838,MySQL,0
+1838,Redis,0
+1838,Kafka,0
+1838,Spark,0
+1838,Airflow,0
+1838,TensorFlow,0
+1838,PyTorch,0
+1838,Power BI,0
+1838,Tableau,0
+1838,Excel,0
+1838,REST,0
+1838,GraphQL,0
+2035,Python,0
+2035,SQL,0
+2035,Pandas,0
+2035,NumPy,0
+2035,FastAPI,0
+2035,Flask,0
+2035,Django,0
+2035,Docker,0
+2035,Kubernetes,0
+2035,AWS,0
+2035,Azure,0
+2035,GCP,0
+2035,Git,0
+2035,Linux,0
+2035,React,0
+2035,JavaScript,0
+2035,TypeScript,0
+2035,Node.js,0
+2035,MongoDB,0
+2035,PostgreSQL,0
+2035,MySQL,0
+2035,Redis,0
+2035,Kafka,0
+2035,Spark,0
+2035,Airflow,0
+2035,TensorFlow,0
+2035,PyTorch,0
+2035,Power BI,0
+2035,Tableau,0
+2035,Excel,0
+2035,REST,0
+2035,GraphQL,0
+AI Filmmaker,Python,1
+AI Filmmaker,Git,1
+AI Filmmaker,REST,1
+AI Filmmaker,SQL,0
+AI Filmmaker,Pandas,0
+AI Filmmaker,NumPy,0
+AI Filmmaker,FastAPI,0
+AI Filmmaker,Flask,0
+AI Filmmaker,Django,0
+AI Filmmaker,Docker,0
+AI Filmmaker,Kubernetes,0
+AI Filmmaker,AWS,0
+AI Filmmaker,Azure,0
+AI Filmmaker,GCP,0
+AI Filmmaker,Linux,0
+AI Filmmaker,React,0
+AI Filmmaker,JavaScript,0
+AI Filmmaker,TypeScript,0
+AI Filmmaker,Node.js,0
+AI Filmmaker,MongoDB,0
+AI Filmmaker,PostgreSQL,0
+AI Filmmaker,MySQL,0
+AI Filmmaker,Redis,0
+AI Filmmaker,Kafka,0
+AI Filmmaker,Spark,0
+AI Filmmaker,Airflow,0
+AI Filmmaker,TensorFlow,0
+AI Filmmaker,PyTorch,0
+AI Filmmaker,Power BI,0
+AI Filmmaker,Tableau,0
+AI Filmmaker,Excel,0
+AI Filmmaker,GraphQL,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Excel,1
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Python,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,SQL,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Pandas,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,NumPy,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,FastAPI,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Flask,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Django,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Docker,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Kubernetes,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,AWS,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Azure,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,GCP,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Git,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Linux,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,React,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,JavaScript,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,TypeScript,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Node.js,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,MongoDB,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,PostgreSQL,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,MySQL,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Redis,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Kafka,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Spark,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Airflow,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,TensorFlow,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,PyTorch,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Power BI,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,Tableau,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,REST,0
+Accommodation Administrator FIFO 14 7 Roster Cairns Queensland,GraphQL,0
+Admissions Coordinator,Git,1
+Admissions Coordinator,Excel,1
+Admissions Coordinator,Python,0
+Admissions Coordinator,SQL,0
+Admissions Coordinator,Pandas,0
+Admissions Coordinator,NumPy,0
+Admissions Coordinator,FastAPI,0
+Admissions Coordinator,Flask,0
+Admissions Coordinator,Django,0
+Admissions Coordinator,Docker,0
+Admissions Coordinator,Kubernetes,0
+Admissions Coordinator,AWS,0
+Admissions Coordinator,Azure,0
+Admissions Coordinator,GCP,0
+Admissions Coordinator,Linux,0
+Admissions Coordinator,React,0
+Admissions Coordinator,JavaScript,0
+Admissions Coordinator,TypeScript,0
+Admissions Coordinator,Node.js,0
+Admissions Coordinator,MongoDB,0
+Admissions Coordinator,PostgreSQL,0
+Admissions Coordinator,MySQL,0
+Admissions Coordinator,Redis,0
+Admissions Coordinator,Kafka,0
+Admissions Coordinator,Spark,0
+Admissions Coordinator,Airflow,0
+Admissions Coordinator,TensorFlow,0
+Admissions Coordinator,PyTorch,0
+Admissions Coordinator,Power BI,0
+Admissions Coordinator,Tableau,0
+Admissions Coordinator,REST,0
+Admissions Coordinator,GraphQL,0
+Aeronautical Information Service Cadet,Python,0
+Aeronautical Information Service Cadet,SQL,0
+Aeronautical Information Service Cadet,Pandas,0
+Aeronautical Information Service Cadet,NumPy,0
+Aeronautical Information Service Cadet,FastAPI,0
+Aeronautical Information Service Cadet,Flask,0
+Aeronautical Information Service Cadet,Django,0
+Aeronautical Information Service Cadet,Docker,0
+Aeronautical Information Service Cadet,Kubernetes,0
+Aeronautical Information Service Cadet,AWS,0
+Aeronautical Information Service Cadet,Azure,0
+Aeronautical Information Service Cadet,GCP,0
+Aeronautical Information Service Cadet,Git,0
+Aeronautical Information Service Cadet,Linux,0
+Aeronautical Information Service Cadet,React,0
+Aeronautical Information Service Cadet,JavaScript,0
+Aeronautical Information Service Cadet,TypeScript,0
+Aeronautical Information Service Cadet,Node.js,0
+Aeronautical Information Service Cadet,MongoDB,0
+Aeronautical Information Service Cadet,PostgreSQL,0
+Aeronautical Information Service Cadet,MySQL,0
+Aeronautical Information Service Cadet,Redis,0
+Aeronautical Information Service Cadet,Kafka,0
+Aeronautical Information Service Cadet,Spark,0
+Aeronautical Information Service Cadet,Airflow,0
+Aeronautical Information Service Cadet,TensorFlow,0
+Aeronautical Information Service Cadet,PyTorch,0
+Aeronautical Information Service Cadet,Power BI,0
+Aeronautical Information Service Cadet,Tableau,0
+Aeronautical Information Service Cadet,Excel,0
+Aeronautical Information Service Cadet,REST,0
+Aeronautical Information Service Cadet,GraphQL,0
+Analyst,Excel,1
+Analyst,Python,0
+Analyst,SQL,0
+Analyst,Pandas,0
+Analyst,NumPy,0
+Analyst,FastAPI,0
+Analyst,Flask,0
+Analyst,Django,0
+Analyst,Docker,0
+Analyst,Kubernetes,0
+Analyst,AWS,0
+Analyst,Azure,0
+Analyst,GCP,0
+Analyst,Git,0
+Analyst,Linux,0
+Analyst,React,0
+Analyst,JavaScript,0
+Analyst,TypeScript,0
+Analyst,Node.js,0
+Analyst,MongoDB,0
+Analyst,PostgreSQL,0
+Analyst,MySQL,0
+Analyst,Redis,0
+Analyst,Kafka,0
+Analyst,Spark,0
+Analyst,Airflow,0
+Analyst,TensorFlow,0
+Analyst,PyTorch,0
+Analyst,Power BI,0
+Analyst,Tableau,0
+Analyst,REST,0
+Analyst,GraphQL,0
+Analyst Customer Routing,Excel,1
+Analyst Customer Routing,REST,1
+Analyst Customer Routing,Python,0
+Analyst Customer Routing,SQL,0
+Analyst Customer Routing,Pandas,0
+Analyst Customer Routing,NumPy,0
+Analyst Customer Routing,FastAPI,0
+Analyst Customer Routing,Flask,0
+Analyst Customer Routing,Django,0
+Analyst Customer Routing,Docker,0
+Analyst Customer Routing,Kubernetes,0
+Analyst Customer Routing,AWS,0
+Analyst Customer Routing,Azure,0
+Analyst Customer Routing,GCP,0
+Analyst Customer Routing,Git,0
+Analyst Customer Routing,Linux,0
+Analyst Customer Routing,React,0
+Analyst Customer Routing,JavaScript,0
+Analyst Customer Routing,TypeScript,0
+Analyst Customer Routing,Node.js,0
+Analyst Customer Routing,MongoDB,0
+Analyst Customer Routing,PostgreSQL,0
+Analyst Customer Routing,MySQL,0
+Analyst Customer Routing,Redis,0
+Analyst Customer Routing,Kafka,0
+Analyst Customer Routing,Spark,0
+Analyst Customer Routing,Airflow,0
+Analyst Customer Routing,TensorFlow,0
+Analyst Customer Routing,PyTorch,0
+Analyst Customer Routing,Power BI,0
+Analyst Customer Routing,Tableau,0
+Analyst Customer Routing,GraphQL,0
+Art Director Brand &amp; Concepts,AWS,1
+Art Director Brand &amp; Concepts,Git,1
+Art Director Brand &amp; Concepts,Python,0
+Art Director Brand &amp; Concepts,SQL,0
+Art Director Brand &amp; Concepts,Pandas,0
+Art Director Brand &amp; Concepts,NumPy,0
+Art Director Brand &amp; Concepts,FastAPI,0
+Art Director Brand &amp; Concepts,Flask,0
+Art Director Brand &amp; Concepts,Django,0
+Art Director Brand &amp; Concepts,Docker,0
+Art Director Brand &amp; Concepts,Kubernetes,0
+Art Director Brand &amp; Concepts,Azure,0
+Art Director Brand &amp; Concepts,GCP,0
+Art Director Brand &amp; Concepts,Linux,0
+Art Director Brand &amp; Concepts,React,0
+Art Director Brand &amp; Concepts,JavaScript,0
+Art Director Brand &amp; Concepts,TypeScript,0
+Art Director Brand &amp; Concepts,Node.js,0
+Art Director Brand &amp; Concepts,MongoDB,0
+Art Director Brand &amp; Concepts,PostgreSQL,0
+Art Director Brand &amp; Concepts,MySQL,0
+Art Director Brand &amp; Concepts,Redis,0
+Art Director Brand &amp; Concepts,Kafka,0
+Art Director Brand &amp; Concepts,Spark,0
+Art Director Brand &amp; Concepts,Airflow,0
+Art Director Brand &amp; Concepts,TensorFlow,0
+Art Director Brand &amp; Concepts,PyTorch,0
+Art Director Brand &amp; Concepts,Power BI,0
+Art Director Brand &amp; Concepts,Tableau,0
+Art Director Brand &amp; Concepts,Excel,0
+Art Director Brand &amp; Concepts,REST,0
+Art Director Brand &amp; Concepts,GraphQL,0
+Ascent Environmental,Python,0
+Ascent Environmental,SQL,0
+Ascent Environmental,Pandas,0
+Ascent Environmental,NumPy,0
+Ascent Environmental,FastAPI,0
+Ascent Environmental,Flask,0
+Ascent Environmental,Django,0
+Ascent Environmental,Docker,0
+Ascent Environmental,Kubernetes,0
+Ascent Environmental,AWS,0
+Ascent Environmental,Azure,0
+Ascent Environmental,GCP,0
+Ascent Environmental,Git,0
+Ascent Environmental,Linux,0
+Ascent Environmental,React,0
+Ascent Environmental,JavaScript,0
+Ascent Environmental,TypeScript,0
+Ascent Environmental,Node.js,0
+Ascent Environmental,MongoDB,0
+Ascent Environmental,PostgreSQL,0
+Ascent Environmental,MySQL,0
+Ascent Environmental,Redis,0
+Ascent Environmental,Kafka,0
+Ascent Environmental,Spark,0
+Ascent Environmental,Airflow,0
+Ascent Environmental,TensorFlow,0
+Ascent Environmental,PyTorch,0
+Ascent Environmental,Power BI,0
+Ascent Environmental,Tableau,0
+Ascent Environmental,Excel,0
+Ascent Environmental,REST,0
+Ascent Environmental,GraphQL,0
+Attendant Laundry,Git,1
+Attendant Laundry,Excel,1
+Attendant Laundry,Python,0
+Attendant Laundry,SQL,0
+Attendant Laundry,Pandas,0
+Attendant Laundry,NumPy,0
+Attendant Laundry,FastAPI,0
+Attendant Laundry,Flask,0
+Attendant Laundry,Django,0
+Attendant Laundry,Docker,0
+Attendant Laundry,Kubernetes,0
+Attendant Laundry,AWS,0
+Attendant Laundry,Azure,0
+Attendant Laundry,GCP,0
+Attendant Laundry,Linux,0
+Attendant Laundry,React,0
+Attendant Laundry,JavaScript,0
+Attendant Laundry,TypeScript,0
+Attendant Laundry,Node.js,0
+Attendant Laundry,MongoDB,0
+Attendant Laundry,PostgreSQL,0
+Attendant Laundry,MySQL,0
+Attendant Laundry,Redis,0
+Attendant Laundry,Kafka,0
+Attendant Laundry,Spark,0
+Attendant Laundry,Airflow,0
+Attendant Laundry,TensorFlow,0
+Attendant Laundry,PyTorch,0
+Attendant Laundry,Power BI,0
+Attendant Laundry,Tableau,0
+Attendant Laundry,REST,0
+Attendant Laundry,GraphQL,0
+Bid Manager,Git,2
+Bid Manager,Excel,2
+Bid Manager,REST,1
+Bid Manager,Python,0
+Bid Manager,SQL,0
+Bid Manager,Pandas,0
+Bid Manager,NumPy,0
+Bid Manager,FastAPI,0
+Bid Manager,Flask,0
+Bid Manager,Django,0
+Bid Manager,Docker,0
+Bid Manager,Kubernetes,0
+Bid Manager,AWS,0
+Bid Manager,Azure,0
+Bid Manager,GCP,0
+Bid Manager,Linux,0
+Bid Manager,React,0
+Bid Manager,JavaScript,0
+Bid Manager,TypeScript,0
+Bid Manager,Node.js,0
+Bid Manager,MongoDB,0
+Bid Manager,PostgreSQL,0
+Bid Manager,MySQL,0
+Bid Manager,Redis,0
+Bid Manager,Kafka,0
+Bid Manager,Spark,0
+Bid Manager,Airflow,0
+Bid Manager,TensorFlow,0
+Bid Manager,PyTorch,0
+Bid Manager,Power BI,0
+Bid Manager,Tableau,0
+Bid Manager,GraphQL,0
+Block Operator,Python,0
+Block Operator,SQL,0
+Block Operator,Pandas,0
+Block Operator,NumPy,0
+Block Operator,FastAPI,0
+Block Operator,Flask,0
+Block Operator,Django,0
+Block Operator,Docker,0
+Block Operator,Kubernetes,0
+Block Operator,AWS,0
+Block Operator,Azure,0
+Block Operator,GCP,0
+Block Operator,Git,0
+Block Operator,Linux,0
+Block Operator,React,0
+Block Operator,JavaScript,0
+Block Operator,TypeScript,0
+Block Operator,Node.js,0
+Block Operator,MongoDB,0
+Block Operator,PostgreSQL,0
+Block Operator,MySQL,0
+Block Operator,Redis,0
+Block Operator,Kafka,0
+Block Operator,Spark,0
+Block Operator,Airflow,0
+Block Operator,TensorFlow,0
+Block Operator,PyTorch,0
+Block Operator,Power BI,0
+Block Operator,Tableau,0
+Block Operator,Excel,0
+Block Operator,REST,0
+Block Operator,GraphQL,0
+British English Voice Recording Specialist Lancaster,Git,1
+British English Voice Recording Specialist Lancaster,Excel,1
+British English Voice Recording Specialist Lancaster,Python,0
+British English Voice Recording Specialist Lancaster,SQL,0
+British English Voice Recording Specialist Lancaster,Pandas,0
+British English Voice Recording Specialist Lancaster,NumPy,0
+British English Voice Recording Specialist Lancaster,FastAPI,0
+British English Voice Recording Specialist Lancaster,Flask,0
+British English Voice Recording Specialist Lancaster,Django,0
+British English Voice Recording Specialist Lancaster,Docker,0
+British English Voice Recording Specialist Lancaster,Kubernetes,0
+British English Voice Recording Specialist Lancaster,AWS,0
+British English Voice Recording Specialist Lancaster,Azure,0
+British English Voice Recording Specialist Lancaster,GCP,0
+British English Voice Recording Specialist Lancaster,Linux,0
+British English Voice Recording Specialist Lancaster,React,0
+British English Voice Recording Specialist Lancaster,JavaScript,0
+British English Voice Recording Specialist Lancaster,TypeScript,0
+British English Voice Recording Specialist Lancaster,Node.js,0
+British English Voice Recording Specialist Lancaster,MongoDB,0
+British English Voice Recording Specialist Lancaster,PostgreSQL,0
+British English Voice Recording Specialist Lancaster,MySQL,0
+British English Voice Recording Specialist Lancaster,Redis,0
+British English Voice Recording Specialist Lancaster,Kafka,0
+British English Voice Recording Specialist Lancaster,Spark,0
+British English Voice Recording Specialist Lancaster,Airflow,0
+British English Voice Recording Specialist Lancaster,TensorFlow,0
+British English Voice Recording Specialist Lancaster,PyTorch,0
+British English Voice Recording Specialist Lancaster,Power BI,0
+British English Voice Recording Specialist Lancaster,Tableau,0
+British English Voice Recording Specialist Lancaster,REST,0
+British English Voice Recording Specialist Lancaster,GraphQL,0
+Business Administration,Python,0
+Business Administration,SQL,0
+Business Administration,Pandas,0
+Business Administration,NumPy,0
+Business Administration,FastAPI,0
+Business Administration,Flask,0
+Business Administration,Django,0
+Business Administration,Docker,0
+Business Administration,Kubernetes,0
+Business Administration,AWS,0
+Business Administration,Azure,0
+Business Administration,GCP,0
+Business Administration,Git,0
+Business Administration,Linux,0
+Business Administration,React,0
+Business Administration,JavaScript,0
+Business Administration,TypeScript,0
+Business Administration,Node.js,0
+Business Administration,MongoDB,0
+Business Administration,PostgreSQL,0
+Business Administration,MySQL,0
+Business Administration,Redis,0
+Business Administration,Kafka,0
+Business Administration,Spark,0
+Business Administration,Airflow,0
+Business Administration,TensorFlow,0
+Business Administration,PyTorch,0
+Business Administration,Power BI,0
+Business Administration,Tableau,0
+Business Administration,Excel,0
+Business Administration,REST,0
+Business Administration,GraphQL,0
+Business Development Representative Cambridge,Git,1
+Business Development Representative Cambridge,Excel,1
+Business Development Representative Cambridge,REST,1
+Business Development Representative Cambridge,Python,0
+Business Development Representative Cambridge,SQL,0
+Business Development Representative Cambridge,Pandas,0
+Business Development Representative Cambridge,NumPy,0
+Business Development Representative Cambridge,FastAPI,0
+Business Development Representative Cambridge,Flask,0
+Business Development Representative Cambridge,Django,0
+Business Development Representative Cambridge,Docker,0
+Business Development Representative Cambridge,Kubernetes,0
+Business Development Representative Cambridge,AWS,0
+Business Development Representative Cambridge,Azure,0
+Business Development Representative Cambridge,GCP,0
+Business Development Representative Cambridge,Linux,0
+Business Development Representative Cambridge,React,0
+Business Development Representative Cambridge,JavaScript,0
+Business Development Representative Cambridge,TypeScript,0
+Business Development Representative Cambridge,Node.js,0
+Business Development Representative Cambridge,MongoDB,0
+Business Development Representative Cambridge,PostgreSQL,0
+Business Development Representative Cambridge,MySQL,0
+Business Development Representative Cambridge,Redis,0
+Business Development Representative Cambridge,Kafka,0
+Business Development Representative Cambridge,Spark,0
+Business Development Representative Cambridge,Airflow,0
+Business Development Representative Cambridge,TensorFlow,0
+Business Development Representative Cambridge,PyTorch,0
+Business Development Representative Cambridge,Power BI,0
+Business Development Representative Cambridge,Tableau,0
+Business Development Representative Cambridge,GraphQL,0
+Cable Jointer,Git,1
+Cable Jointer,Excel,1
+Cable Jointer,REST,1
+Cable Jointer,Python,0
+Cable Jointer,SQL,0
+Cable Jointer,Pandas,0
+Cable Jointer,NumPy,0
+Cable Jointer,FastAPI,0
+Cable Jointer,Flask,0
+Cable Jointer,Django,0
+Cable Jointer,Docker,0
+Cable Jointer,Kubernetes,0
+Cable Jointer,AWS,0
+Cable Jointer,Azure,0
+Cable Jointer,GCP,0
+Cable Jointer,Linux,0
+Cable Jointer,React,0
+Cable Jointer,JavaScript,0
+Cable Jointer,TypeScript,0
+Cable Jointer,Node.js,0
+Cable Jointer,MongoDB,0
+Cable Jointer,PostgreSQL,0
+Cable Jointer,MySQL,0
+Cable Jointer,Redis,0
+Cable Jointer,Kafka,0
+Cable Jointer,Spark,0
+Cable Jointer,Airflow,0
+Cable Jointer,TensorFlow,0
+Cable Jointer,PyTorch,0
+Cable Jointer,Power BI,0
+Cable Jointer,Tableau,0
+Cable Jointer,GraphQL,0
+Captain,Git,1
+Captain,Excel,1
+Captain,Python,0
+Captain,SQL,0
+Captain,Pandas,0
+Captain,NumPy,0
+Captain,FastAPI,0
+Captain,Flask,0
+Captain,Django,0
+Captain,Docker,0
+Captain,Kubernetes,0
+Captain,AWS,0
+Captain,Azure,0
+Captain,GCP,0
+Captain,Linux,0
+Captain,React,0
+Captain,JavaScript,0
+Captain,TypeScript,0
+Captain,Node.js,0
+Captain,MongoDB,0
+Captain,PostgreSQL,0
+Captain,MySQL,0
+Captain,Redis,0
+Captain,Kafka,0
+Captain,Spark,0
+Captain,Airflow,0
+Captain,TensorFlow,0
+Captain,PyTorch,0
+Captain,Power BI,0
+Captain,Tableau,0
+Captain,REST,0
+Captain,GraphQL,0
+Caretaker Manor Park Primary School,REST,1
+Caretaker Manor Park Primary School,Python,0
+Caretaker Manor Park Primary School,SQL,0
+Caretaker Manor Park Primary School,Pandas,0
+Caretaker Manor Park Primary School,NumPy,0
+Caretaker Manor Park Primary School,FastAPI,0
+Caretaker Manor Park Primary School,Flask,0
+Caretaker Manor Park Primary School,Django,0
+Caretaker Manor Park Primary School,Docker,0
+Caretaker Manor Park Primary School,Kubernetes,0
+Caretaker Manor Park Primary School,AWS,0
+Caretaker Manor Park Primary School,Azure,0
+Caretaker Manor Park Primary School,GCP,0
+Caretaker Manor Park Primary School,Git,0
+Caretaker Manor Park Primary School,Linux,0
+Caretaker Manor Park Primary School,React,0
+Caretaker Manor Park Primary School,JavaScript,0
+Caretaker Manor Park Primary School,TypeScript,0
+Caretaker Manor Park Primary School,Node.js,0
+Caretaker Manor Park Primary School,MongoDB,0
+Caretaker Manor Park Primary School,PostgreSQL,0
+Caretaker Manor Park Primary School,MySQL,0
+Caretaker Manor Park Primary School,Redis,0
+Caretaker Manor Park Primary School,Kafka,0
+Caretaker Manor Park Primary School,Spark,0
+Caretaker Manor Park Primary School,Airflow,0
+Caretaker Manor Park Primary School,TensorFlow,0
+Caretaker Manor Park Primary School,PyTorch,0
+Caretaker Manor Park Primary School,Power BI,0
+Caretaker Manor Park Primary School,Tableau,0
+Caretaker Manor Park Primary School,Excel,0
+Caretaker Manor Park Primary School,GraphQL,0
+Casino Technician,Git,1
+Casino Technician,Excel,1
+Casino Technician,Python,0
+Casino Technician,SQL,0
+Casino Technician,Pandas,0
+Casino Technician,NumPy,0
+Casino Technician,FastAPI,0
+Casino Technician,Flask,0
+Casino Technician,Django,0
+Casino Technician,Docker,0
+Casino Technician,Kubernetes,0
+Casino Technician,AWS,0
+Casino Technician,Azure,0
+Casino Technician,GCP,0
+Casino Technician,Linux,0
+Casino Technician,React,0
+Casino Technician,JavaScript,0
+Casino Technician,TypeScript,0
+Casino Technician,Node.js,0
+Casino Technician,MongoDB,0
+Casino Technician,PostgreSQL,0
+Casino Technician,MySQL,0
+Casino Technician,Redis,0
+Casino Technician,Kafka,0
+Casino Technician,Spark,0
+Casino Technician,Airflow,0
+Casino Technician,TensorFlow,0
+Casino Technician,PyTorch,0
+Casino Technician,Power BI,0
+Casino Technician,Tableau,0
+Casino Technician,REST,0
+Casino Technician,GraphQL,0
+Chief Financial Officer,Git,1
+Chief Financial Officer,Python,0
+Chief Financial Officer,SQL,0
+Chief Financial Officer,Pandas,0
+Chief Financial Officer,NumPy,0
+Chief Financial Officer,FastAPI,0
+Chief Financial Officer,Flask,0
+Chief Financial Officer,Django,0
+Chief Financial Officer,Docker,0
+Chief Financial Officer,Kubernetes,0
+Chief Financial Officer,AWS,0
+Chief Financial Officer,Azure,0
+Chief Financial Officer,GCP,0
+Chief Financial Officer,Linux,0
+Chief Financial Officer,React,0
+Chief Financial Officer,JavaScript,0
+Chief Financial Officer,TypeScript,0
+Chief Financial Officer,Node.js,0
+Chief Financial Officer,MongoDB,0
+Chief Financial Officer,PostgreSQL,0
+Chief Financial Officer,MySQL,0
+Chief Financial Officer,Redis,0
+Chief Financial Officer,Kafka,0
+Chief Financial Officer,Spark,0
+Chief Financial Officer,Airflow,0
+Chief Financial Officer,TensorFlow,0
+Chief Financial Officer,PyTorch,0
+Chief Financial Officer,Power BI,0
+Chief Financial Officer,Tableau,0
+Chief Financial Officer,Excel,0
+Chief Financial Officer,REST,0
+Chief Financial Officer,GraphQL,0
+Coach AcadÃ©mico,Git,1
+Coach AcadÃ©mico,Excel,1
+Coach AcadÃ©mico,Python,0
+Coach AcadÃ©mico,SQL,0
+Coach AcadÃ©mico,Pandas,0
+Coach AcadÃ©mico,NumPy,0
+Coach AcadÃ©mico,FastAPI,0
+Coach AcadÃ©mico,Flask,0
+Coach AcadÃ©mico,Django,0
+Coach AcadÃ©mico,Docker,0
+Coach AcadÃ©mico,Kubernetes,0
+Coach AcadÃ©mico,AWS,0
+Coach AcadÃ©mico,Azure,0
+Coach AcadÃ©mico,GCP,0
+Coach AcadÃ©mico,Linux,0
+Coach AcadÃ©mico,React,0
+Coach AcadÃ©mico,JavaScript,0
+Coach AcadÃ©mico,TypeScript,0
+Coach AcadÃ©mico,Node.js,0
+Coach AcadÃ©mico,MongoDB,0
+Coach AcadÃ©mico,PostgreSQL,0
+Coach AcadÃ©mico,MySQL,0
+Coach AcadÃ©mico,Redis,0
+Coach AcadÃ©mico,Kafka,0
+Coach AcadÃ©mico,Spark,0
+Coach AcadÃ©mico,Airflow,0
+Coach AcadÃ©mico,TensorFlow,0
+Coach AcadÃ©mico,PyTorch,0
+Coach AcadÃ©mico,Power BI,0
+Coach AcadÃ©mico,Tableau,0
+Coach AcadÃ©mico,REST,0
+Coach AcadÃ©mico,GraphQL,0
+Collections Manager,Git,1
+Collections Manager,Excel,1
+Collections Manager,Python,0
+Collections Manager,SQL,0
+Collections Manager,Pandas,0
+Collections Manager,NumPy,0
+Collections Manager,FastAPI,0
+Collections Manager,Flask,0
+Collections Manager,Django,0
+Collections Manager,Docker,0
+Collections Manager,Kubernetes,0
+Collections Manager,AWS,0
+Collections Manager,Azure,0
+Collections Manager,GCP,0
+Collections Manager,Linux,0
+Collections Manager,React,0
+Collections Manager,JavaScript,0
+Collections Manager,TypeScript,0
+Collections Manager,Node.js,0
+Collections Manager,MongoDB,0
+Collections Manager,PostgreSQL,0
+Collections Manager,MySQL,0
+Collections Manager,Redis,0
+Collections Manager,Kafka,0
+Collections Manager,Spark,0
+Collections Manager,Airflow,0
+Collections Manager,TensorFlow,0
+Collections Manager,PyTorch,0
+Collections Manager,Power BI,0
+Collections Manager,Tableau,0
+Collections Manager,REST,0
+Collections Manager,GraphQL,0
+Common Energy,Python,0
+Common Energy,SQL,0
+Common Energy,Pandas,0
+Common Energy,NumPy,0
+Common Energy,FastAPI,0
+Common Energy,Flask,0
+Common Energy,Django,0
+Common Energy,Docker,0
+Common Energy,Kubernetes,0
+Common Energy,AWS,0
+Common Energy,Azure,0
+Common Energy,GCP,0
+Common Energy,Git,0
+Common Energy,Linux,0
+Common Energy,React,0
+Common Energy,JavaScript,0
+Common Energy,TypeScript,0
+Common Energy,Node.js,0
+Common Energy,MongoDB,0
+Common Energy,PostgreSQL,0
+Common Energy,MySQL,0
+Common Energy,Redis,0
+Common Energy,Kafka,0
+Common Energy,Spark,0
+Common Energy,Airflow,0
+Common Energy,TensorFlow,0
+Common Energy,PyTorch,0
+Common Energy,Power BI,0
+Common Energy,Tableau,0
+Common Energy,Excel,0
+Common Energy,REST,0
+Common Energy,GraphQL,0
+Competency Assessor Operations,Python,0
+Competency Assessor Operations,SQL,0
+Competency Assessor Operations,Pandas,0
+Competency Assessor Operations,NumPy,0
+Competency Assessor Operations,FastAPI,0
+Competency Assessor Operations,Flask,0
+Competency Assessor Operations,Django,0
+Competency Assessor Operations,Docker,0
+Competency Assessor Operations,Kubernetes,0
+Competency Assessor Operations,AWS,0
+Competency Assessor Operations,Azure,0
+Competency Assessor Operations,GCP,0
+Competency Assessor Operations,Git,0
+Competency Assessor Operations,Linux,0
+Competency Assessor Operations,React,0
+Competency Assessor Operations,JavaScript,0
+Competency Assessor Operations,TypeScript,0
+Competency Assessor Operations,Node.js,0
+Competency Assessor Operations,MongoDB,0
+Competency Assessor Operations,PostgreSQL,0
+Competency Assessor Operations,MySQL,0
+Competency Assessor Operations,Redis,0
+Competency Assessor Operations,Kafka,0
+Competency Assessor Operations,Spark,0
+Competency Assessor Operations,Airflow,0
+Competency Assessor Operations,TensorFlow,0
+Competency Assessor Operations,PyTorch,0
+Competency Assessor Operations,Power BI,0
+Competency Assessor Operations,Tableau,0
+Competency Assessor Operations,Excel,0
+Competency Assessor Operations,REST,0
+Competency Assessor Operations,GraphQL,0
+Content,Git,1
+Content,Python,0
+Content,SQL,0
+Content,Pandas,0
+Content,NumPy,0
+Content,FastAPI,0
+Content,Flask,0
+Content,Django,0
+Content,Docker,0
+Content,Kubernetes,0
+Content,AWS,0
+Content,Azure,0
+Content,GCP,0
+Content,Linux,0
+Content,React,0
+Content,JavaScript,0
+Content,TypeScript,0
+Content,Node.js,0
+Content,MongoDB,0
+Content,PostgreSQL,0
+Content,MySQL,0
+Content,Redis,0
+Content,Kafka,0
+Content,Spark,0
+Content,Airflow,0
+Content,TensorFlow,0
+Content,PyTorch,0
+Content,Power BI,0
+Content,Tableau,0
+Content,Excel,0
+Content,REST,0
+Content,GraphQL,0
+Creative Director,Git,1
+Creative Director,Excel,1
+Creative Director,Python,0
+Creative Director,SQL,0
+Creative Director,Pandas,0
+Creative Director,NumPy,0
+Creative Director,FastAPI,0
+Creative Director,Flask,0
+Creative Director,Django,0
+Creative Director,Docker,0
+Creative Director,Kubernetes,0
+Creative Director,AWS,0
+Creative Director,Azure,0
+Creative Director,GCP,0
+Creative Director,Linux,0
+Creative Director,React,0
+Creative Director,JavaScript,0
+Creative Director,TypeScript,0
+Creative Director,Node.js,0
+Creative Director,MongoDB,0
+Creative Director,PostgreSQL,0
+Creative Director,MySQL,0
+Creative Director,Redis,0
+Creative Director,Kafka,0
+Creative Director,Spark,0
+Creative Director,Airflow,0
+Creative Director,TensorFlow,0
+Creative Director,PyTorch,0
+Creative Director,Power BI,0
+Creative Director,Tableau,0
+Creative Director,REST,0
+Creative Director,GraphQL,0
+Creative Operations Manager,AWS,1
+Creative Operations Manager,Git,1
+Creative Operations Manager,Python,0
+Creative Operations Manager,SQL,0
+Creative Operations Manager,Pandas,0
+Creative Operations Manager,NumPy,0
+Creative Operations Manager,FastAPI,0
+Creative Operations Manager,Flask,0
+Creative Operations Manager,Django,0
+Creative Operations Manager,Docker,0
+Creative Operations Manager,Kubernetes,0
+Creative Operations Manager,Azure,0
+Creative Operations Manager,GCP,0
+Creative Operations Manager,Linux,0
+Creative Operations Manager,React,0
+Creative Operations Manager,JavaScript,0
+Creative Operations Manager,TypeScript,0
+Creative Operations Manager,Node.js,0
+Creative Operations Manager,MongoDB,0
+Creative Operations Manager,PostgreSQL,0
+Creative Operations Manager,MySQL,0
+Creative Operations Manager,Redis,0
+Creative Operations Manager,Kafka,0
+Creative Operations Manager,Spark,0
+Creative Operations Manager,Airflow,0
+Creative Operations Manager,TensorFlow,0
+Creative Operations Manager,PyTorch,0
+Creative Operations Manager,Power BI,0
+Creative Operations Manager,Tableau,0
+Creative Operations Manager,Excel,0
+Creative Operations Manager,REST,0
+Creative Operations Manager,GraphQL,0
+Creative Strategist,Python,0
+Creative Strategist,SQL,0
+Creative Strategist,Pandas,0
+Creative Strategist,NumPy,0
+Creative Strategist,FastAPI,0
+Creative Strategist,Flask,0
+Creative Strategist,Django,0
+Creative Strategist,Docker,0
+Creative Strategist,Kubernetes,0
+Creative Strategist,AWS,0
+Creative Strategist,Azure,0
+Creative Strategist,GCP,0
+Creative Strategist,Git,0
+Creative Strategist,Linux,0
+Creative Strategist,React,0
+Creative Strategist,JavaScript,0
+Creative Strategist,TypeScript,0
+Creative Strategist,Node.js,0
+Creative Strategist,MongoDB,0
+Creative Strategist,PostgreSQL,0
+Creative Strategist,MySQL,0
+Creative Strategist,Redis,0
+Creative Strategist,Kafka,0
+Creative Strategist,Spark,0
+Creative Strategist,Airflow,0
+Creative Strategist,TensorFlow,0
+Creative Strategist,PyTorch,0
+Creative Strategist,Power BI,0
+Creative Strategist,Tableau,0
+Creative Strategist,Excel,0
+Creative Strategist,REST,0
+Creative Strategist,GraphQL,0
+Cuidador a de NiÃ±os,Python,0
+Cuidador a de NiÃ±os,SQL,0
+Cuidador a de NiÃ±os,Pandas,0
+Cuidador a de NiÃ±os,NumPy,0
+Cuidador a de NiÃ±os,FastAPI,0
+Cuidador a de NiÃ±os,Flask,0
+Cuidador a de NiÃ±os,Django,0
+Cuidador a de NiÃ±os,Docker,0
+Cuidador a de NiÃ±os,Kubernetes,0
+Cuidador a de NiÃ±os,AWS,0
+Cuidador a de NiÃ±os,Azure,0
+Cuidador a de NiÃ±os,GCP,0
+Cuidador a de NiÃ±os,Git,0
+Cuidador a de NiÃ±os,Linux,0
+Cuidador a de NiÃ±os,React,0
+Cuidador a de NiÃ±os,JavaScript,0
+Cuidador a de NiÃ±os,TypeScript,0
+Cuidador a de NiÃ±os,Node.js,0
+Cuidador a de NiÃ±os,MongoDB,0
+Cuidador a de NiÃ±os,PostgreSQL,0
+Cuidador a de NiÃ±os,MySQL,0
+Cuidador a de NiÃ±os,Redis,0
+Cuidador a de NiÃ±os,Kafka,0
+Cuidador a de NiÃ±os,Spark,0
+Cuidador a de NiÃ±os,Airflow,0
+Cuidador a de NiÃ±os,TensorFlow,0
+Cuidador a de NiÃ±os,PyTorch,0
+Cuidador a de NiÃ±os,Power BI,0
+Cuidador a de NiÃ±os,Tableau,0
+Cuidador a de NiÃ±os,Excel,0
+Cuidador a de NiÃ±os,REST,0
+Cuidador a de NiÃ±os,GraphQL,0
+Customer Support,Git,1
+Customer Support,Excel,1
+Customer Support,Python,0
+Customer Support,SQL,0
+Customer Support,Pandas,0
+Customer Support,NumPy,0
+Customer Support,FastAPI,0
+Customer Support,Flask,0
+Customer Support,Django,0
+Customer Support,Docker,0
+Customer Support,Kubernetes,0
+Customer Support,AWS,0
+Customer Support,Azure,0
+Customer Support,GCP,0
+Customer Support,Linux,0
+Customer Support,React,0
+Customer Support,JavaScript,0
+Customer Support,TypeScript,0
+Customer Support,Node.js,0
+Customer Support,MongoDB,0
+Customer Support,PostgreSQL,0
+Customer Support,MySQL,0
+Customer Support,Redis,0
+Customer Support,Kafka,0
+Customer Support,Spark,0
+Customer Support,Airflow,0
+Customer Support,TensorFlow,0
+Customer Support,PyTorch,0
+Customer Support,Power BI,0
+Customer Support,Tableau,0
+Customer Support,REST,0
+Customer Support,GraphQL,0
+Customer Support Helpdesk Specialist,AWS,1
+Customer Support Helpdesk Specialist,Git,1
+Customer Support Helpdesk Specialist,Excel,1
+Customer Support Helpdesk Specialist,Python,0
+Customer Support Helpdesk Specialist,SQL,0
+Customer Support Helpdesk Specialist,Pandas,0
+Customer Support Helpdesk Specialist,NumPy,0
+Customer Support Helpdesk Specialist,FastAPI,0
+Customer Support Helpdesk Specialist,Flask,0
+Customer Support Helpdesk Specialist,Django,0
+Customer Support Helpdesk Specialist,Docker,0
+Customer Support Helpdesk Specialist,Kubernetes,0
+Customer Support Helpdesk Specialist,Azure,0
+Customer Support Helpdesk Specialist,GCP,0
+Customer Support Helpdesk Specialist,Linux,0
+Customer Support Helpdesk Specialist,React,0
+Customer Support Helpdesk Specialist,JavaScript,0
+Customer Support Helpdesk Specialist,TypeScript,0
+Customer Support Helpdesk Specialist,Node.js,0
+Customer Support Helpdesk Specialist,MongoDB,0
+Customer Support Helpdesk Specialist,PostgreSQL,0
+Customer Support Helpdesk Specialist,MySQL,0
+Customer Support Helpdesk Specialist,Redis,0
+Customer Support Helpdesk Specialist,Kafka,0
+Customer Support Helpdesk Specialist,Spark,0
+Customer Support Helpdesk Specialist,Airflow,0
+Customer Support Helpdesk Specialist,TensorFlow,0
+Customer Support Helpdesk Specialist,PyTorch,0
+Customer Support Helpdesk Specialist,Power BI,0
+Customer Support Helpdesk Specialist,Tableau,0
+Customer Support Helpdesk Specialist,REST,0
+Customer Support Helpdesk Specialist,GraphQL,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,AWS,1
+Customer Support Technician Helpdesk Offboardings &amp; Access,Git,1
+Customer Support Technician Helpdesk Offboardings &amp; Access,Excel,1
+Customer Support Technician Helpdesk Offboardings &amp; Access,Python,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,SQL,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Pandas,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,NumPy,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,FastAPI,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Flask,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Django,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Docker,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Kubernetes,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Azure,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,GCP,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Linux,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,React,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,JavaScript,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,TypeScript,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Node.js,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,MongoDB,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,PostgreSQL,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,MySQL,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Redis,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Kafka,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Spark,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Airflow,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,TensorFlow,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,PyTorch,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Power BI,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,Tableau,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,REST,0
+Customer Support Technician Helpdesk Offboardings &amp; Access,GraphQL,0
+DOCUMENT FORMATTING SPECIALIST,Git,1
+DOCUMENT FORMATTING SPECIALIST,Excel,1
+DOCUMENT FORMATTING SPECIALIST,REST,1
+DOCUMENT FORMATTING SPECIALIST,Python,0
+DOCUMENT FORMATTING SPECIALIST,SQL,0
+DOCUMENT FORMATTING SPECIALIST,Pandas,0
+DOCUMENT FORMATTING SPECIALIST,NumPy,0
+DOCUMENT FORMATTING SPECIALIST,FastAPI,0
+DOCUMENT FORMATTING SPECIALIST,Flask,0
+DOCUMENT FORMATTING SPECIALIST,Django,0
+DOCUMENT FORMATTING SPECIALIST,Docker,0
+DOCUMENT FORMATTING SPECIALIST,Kubernetes,0
+DOCUMENT FORMATTING SPECIALIST,AWS,0
+DOCUMENT FORMATTING SPECIALIST,Azure,0
+DOCUMENT FORMATTING SPECIALIST,GCP,0
+DOCUMENT FORMATTING SPECIALIST,Linux,0
+DOCUMENT FORMATTING SPECIALIST,React,0
+DOCUMENT FORMATTING SPECIALIST,JavaScript,0
+DOCUMENT FORMATTING SPECIALIST,TypeScript,0
+DOCUMENT FORMATTING SPECIALIST,Node.js,0
+DOCUMENT FORMATTING SPECIALIST,MongoDB,0
+DOCUMENT FORMATTING SPECIALIST,PostgreSQL,0
+DOCUMENT FORMATTING SPECIALIST,MySQL,0
+DOCUMENT FORMATTING SPECIALIST,Redis,0
+DOCUMENT FORMATTING SPECIALIST,Kafka,0
+DOCUMENT FORMATTING SPECIALIST,Spark,0
+DOCUMENT FORMATTING SPECIALIST,Airflow,0
+DOCUMENT FORMATTING SPECIALIST,TensorFlow,0
+DOCUMENT FORMATTING SPECIALIST,PyTorch,0
+DOCUMENT FORMATTING SPECIALIST,Power BI,0
+DOCUMENT FORMATTING SPECIALIST,Tableau,0
+DOCUMENT FORMATTING SPECIALIST,GraphQL,0
+Data Engineers,Python,1
+Data Engineers,SQL,1
+Data Engineers,Azure,1
+Data Engineers,Git,1
+Data Engineers,Excel,1
+Data Engineers,Pandas,0
+Data Engineers,NumPy,0
+Data Engineers,FastAPI,0
+Data Engineers,Flask,0
+Data Engineers,Django,0
+Data Engineers,Docker,0
+Data Engineers,Kubernetes,0
+Data Engineers,AWS,0
+Data Engineers,GCP,0
+Data Engineers,Linux,0
+Data Engineers,React,0
+Data Engineers,JavaScript,0
+Data Engineers,TypeScript,0
+Data Engineers,Node.js,0
+Data Engineers,MongoDB,0
+Data Engineers,PostgreSQL,0
+Data Engineers,MySQL,0
+Data Engineers,Redis,0
+Data Engineers,Kafka,0
+Data Engineers,Spark,0
+Data Engineers,Airflow,0
+Data Engineers,TensorFlow,0
+Data Engineers,PyTorch,0
+Data Engineers,Power BI,0
+Data Engineers,Tableau,0
+Data Engineers,REST,0
+Data Engineers,GraphQL,0
+Delivery Driver Bristol,Git,1
+Delivery Driver Bristol,Excel,1
+Delivery Driver Bristol,REST,1
+Delivery Driver Bristol,Python,0
+Delivery Driver Bristol,SQL,0
+Delivery Driver Bristol,Pandas,0
+Delivery Driver Bristol,NumPy,0
+Delivery Driver Bristol,FastAPI,0
+Delivery Driver Bristol,Flask,0
+Delivery Driver Bristol,Django,0
+Delivery Driver Bristol,Docker,0
+Delivery Driver Bristol,Kubernetes,0
+Delivery Driver Bristol,AWS,0
+Delivery Driver Bristol,Azure,0
+Delivery Driver Bristol,GCP,0
+Delivery Driver Bristol,Linux,0
+Delivery Driver Bristol,React,0
+Delivery Driver Bristol,JavaScript,0
+Delivery Driver Bristol,TypeScript,0
+Delivery Driver Bristol,Node.js,0
+Delivery Driver Bristol,MongoDB,0
+Delivery Driver Bristol,PostgreSQL,0
+Delivery Driver Bristol,MySQL,0
+Delivery Driver Bristol,Redis,0
+Delivery Driver Bristol,Kafka,0
+Delivery Driver Bristol,Spark,0
+Delivery Driver Bristol,Airflow,0
+Delivery Driver Bristol,TensorFlow,0
+Delivery Driver Bristol,PyTorch,0
+Delivery Driver Bristol,Power BI,0
+Delivery Driver Bristol,Tableau,0
+Delivery Driver Bristol,GraphQL,0
+Director of Service,Git,1
+Director of Service,Excel,1
+Director of Service,Python,0
+Director of Service,SQL,0
+Director of Service,Pandas,0
+Director of Service,NumPy,0
+Director of Service,FastAPI,0
+Director of Service,Flask,0
+Director of Service,Django,0
+Director of Service,Docker,0
+Director of Service,Kubernetes,0
+Director of Service,AWS,0
+Director of Service,Azure,0
+Director of Service,GCP,0
+Director of Service,Linux,0
+Director of Service,React,0
+Director of Service,JavaScript,0
+Director of Service,TypeScript,0
+Director of Service,Node.js,0
+Director of Service,MongoDB,0
+Director of Service,PostgreSQL,0
+Director of Service,MySQL,0
+Director of Service,Redis,0
+Director of Service,Kafka,0
+Director of Service,Spark,0
+Director of Service,Airflow,0
+Director of Service,TensorFlow,0
+Director of Service,PyTorch,0
+Director of Service,Power BI,0
+Director of Service,Tableau,0
+Director of Service,REST,0
+Director of Service,GraphQL,0
+English Tutor,Excel,1
+English Tutor,Python,0
+English Tutor,SQL,0
+English Tutor,Pandas,0
+English Tutor,NumPy,0
+English Tutor,FastAPI,0
+English Tutor,Flask,0
+English Tutor,Django,0
+English Tutor,Docker,0
+English Tutor,Kubernetes,0
+English Tutor,AWS,0
+English Tutor,Azure,0
+English Tutor,GCP,0
+English Tutor,Git,0
+English Tutor,Linux,0
+English Tutor,React,0
+English Tutor,JavaScript,0
+English Tutor,TypeScript,0
+English Tutor,Node.js,0
+English Tutor,MongoDB,0
+English Tutor,PostgreSQL,0
+English Tutor,MySQL,0
+English Tutor,Redis,0
+English Tutor,Kafka,0
+English Tutor,Spark,0
+English Tutor,Airflow,0
+English Tutor,TensorFlow,0
+English Tutor,PyTorch,0
+English Tutor,Power BI,0
+English Tutor,Tableau,0
+English Tutor,REST,0
+English Tutor,GraphQL,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Git,1
+Entry Level Scheduling &amp; Coordinating Reservations Online,REST,1
+Entry Level Scheduling &amp; Coordinating Reservations Online,Python,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,SQL,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Pandas,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,NumPy,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,FastAPI,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Flask,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Django,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Docker,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Kubernetes,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,AWS,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Azure,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,GCP,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Linux,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,React,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,JavaScript,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,TypeScript,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Node.js,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,MongoDB,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,PostgreSQL,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,MySQL,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Redis,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Kafka,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Spark,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Airflow,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,TensorFlow,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,PyTorch,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Power BI,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Tableau,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,Excel,0
+Entry Level Scheduling &amp; Coordinating Reservations Online,GraphQL,0
+Error Odio,Python,0
+Error Odio,SQL,0
+Error Odio,Pandas,0
+Error Odio,NumPy,0
+Error Odio,FastAPI,0
+Error Odio,Flask,0
+Error Odio,Django,0
+Error Odio,Docker,0
+Error Odio,Kubernetes,0
+Error Odio,AWS,0
+Error Odio,Azure,0
+Error Odio,GCP,0
+Error Odio,Git,0
+Error Odio,Linux,0
+Error Odio,React,0
+Error Odio,JavaScript,0
+Error Odio,TypeScript,0
+Error Odio,Node.js,0
+Error Odio,MongoDB,0
+Error Odio,PostgreSQL,0
+Error Odio,MySQL,0
+Error Odio,Redis,0
+Error Odio,Kafka,0
+Error Odio,Spark,0
+Error Odio,Airflow,0
+Error Odio,TensorFlow,0
+Error Odio,PyTorch,0
+Error Odio,Power BI,0
+Error Odio,Tableau,0
+Error Odio,Excel,0
+Error Odio,REST,0
+Error Odio,GraphQL,0
+Executive,Git,1
+Executive,Excel,1
+Executive,Python,0
+Executive,SQL,0
+Executive,Pandas,0
+Executive,NumPy,0
+Executive,FastAPI,0
+Executive,Flask,0
+Executive,Django,0
+Executive,Docker,0
+Executive,Kubernetes,0
+Executive,AWS,0
+Executive,Azure,0
+Executive,GCP,0
+Executive,Linux,0
+Executive,React,0
+Executive,JavaScript,0
+Executive,TypeScript,0
+Executive,Node.js,0
+Executive,MongoDB,0
+Executive,PostgreSQL,0
+Executive,MySQL,0
+Executive,Redis,0
+Executive,Kafka,0
+Executive,Spark,0
+Executive,Airflow,0
+Executive,TensorFlow,0
+Executive,PyTorch,0
+Executive,Power BI,0
+Executive,Tableau,0
+Executive,REST,0
+Executive,GraphQL,0
+Executive Assistant,Git,1
+Executive Assistant,Python,0
+Executive Assistant,SQL,0
+Executive Assistant,Pandas,0
+Executive Assistant,NumPy,0
+Executive Assistant,FastAPI,0
+Executive Assistant,Flask,0
+Executive Assistant,Django,0
+Executive Assistant,Docker,0
+Executive Assistant,Kubernetes,0
+Executive Assistant,AWS,0
+Executive Assistant,Azure,0
+Executive Assistant,GCP,0
+Executive Assistant,Linux,0
+Executive Assistant,React,0
+Executive Assistant,JavaScript,0
+Executive Assistant,TypeScript,0
+Executive Assistant,Node.js,0
+Executive Assistant,MongoDB,0
+Executive Assistant,PostgreSQL,0
+Executive Assistant,MySQL,0
+Executive Assistant,Redis,0
+Executive Assistant,Kafka,0
+Executive Assistant,Spark,0
+Executive Assistant,Airflow,0
+Executive Assistant,TensorFlow,0
+Executive Assistant,PyTorch,0
+Executive Assistant,Power BI,0
+Executive Assistant,Tableau,0
+Executive Assistant,Excel,0
+Executive Assistant,REST,0
+Executive Assistant,GraphQL,0
+Expressions of Interest,Git,1
+Expressions of Interest,REST,1
+Expressions of Interest,Python,0
+Expressions of Interest,SQL,0
+Expressions of Interest,Pandas,0
+Expressions of Interest,NumPy,0
+Expressions of Interest,FastAPI,0
+Expressions of Interest,Flask,0
+Expressions of Interest,Django,0
+Expressions of Interest,Docker,0
+Expressions of Interest,Kubernetes,0
+Expressions of Interest,AWS,0
+Expressions of Interest,Azure,0
+Expressions of Interest,GCP,0
+Expressions of Interest,Linux,0
+Expressions of Interest,React,0
+Expressions of Interest,JavaScript,0
+Expressions of Interest,TypeScript,0
+Expressions of Interest,Node.js,0
+Expressions of Interest,MongoDB,0
+Expressions of Interest,PostgreSQL,0
+Expressions of Interest,MySQL,0
+Expressions of Interest,Redis,0
+Expressions of Interest,Kafka,0
+Expressions of Interest,Spark,0
+Expressions of Interest,Airflow,0
+Expressions of Interest,TensorFlow,0
+Expressions of Interest,PyTorch,0
+Expressions of Interest,Power BI,0
+Expressions of Interest,Tableau,0
+Expressions of Interest,Excel,0
+Expressions of Interest,GraphQL,0
+Freelance Designer,Git,3
+Freelance Designer,Excel,2
+Freelance Designer,REST,2
+Freelance Designer,Python,0
+Freelance Designer,SQL,0
+Freelance Designer,Pandas,0
+Freelance Designer,NumPy,0
+Freelance Designer,FastAPI,0
+Freelance Designer,Flask,0
+Freelance Designer,Django,0
+Freelance Designer,Docker,0
+Freelance Designer,Kubernetes,0
+Freelance Designer,AWS,0
+Freelance Designer,Azure,0
+Freelance Designer,GCP,0
+Freelance Designer,Linux,0
+Freelance Designer,React,0
+Freelance Designer,JavaScript,0
+Freelance Designer,TypeScript,0
+Freelance Designer,Node.js,0
+Freelance Designer,MongoDB,0
+Freelance Designer,PostgreSQL,0
+Freelance Designer,MySQL,0
+Freelance Designer,Redis,0
+Freelance Designer,Kafka,0
+Freelance Designer,Spark,0
+Freelance Designer,Airflow,0
+Freelance Designer,TensorFlow,0
+Freelance Designer,PyTorch,0
+Freelance Designer,Power BI,0
+Freelance Designer,Tableau,0
+Freelance Designer,GraphQL,0
+Freelance Social Copywriter,Python,0
+Freelance Social Copywriter,SQL,0
+Freelance Social Copywriter,Pandas,0
+Freelance Social Copywriter,NumPy,0
+Freelance Social Copywriter,FastAPI,0
+Freelance Social Copywriter,Flask,0
+Freelance Social Copywriter,Django,0
+Freelance Social Copywriter,Docker,0
+Freelance Social Copywriter,Kubernetes,0
+Freelance Social Copywriter,AWS,0
+Freelance Social Copywriter,Azure,0
+Freelance Social Copywriter,GCP,0
+Freelance Social Copywriter,Git,0
+Freelance Social Copywriter,Linux,0
+Freelance Social Copywriter,React,0
+Freelance Social Copywriter,JavaScript,0
+Freelance Social Copywriter,TypeScript,0
+Freelance Social Copywriter,Node.js,0
+Freelance Social Copywriter,MongoDB,0
+Freelance Social Copywriter,PostgreSQL,0
+Freelance Social Copywriter,MySQL,0
+Freelance Social Copywriter,Redis,0
+Freelance Social Copywriter,Kafka,0
+Freelance Social Copywriter,Spark,0
+Freelance Social Copywriter,Airflow,0
+Freelance Social Copywriter,TensorFlow,0
+Freelance Social Copywriter,PyTorch,0
+Freelance Social Copywriter,Power BI,0
+Freelance Social Copywriter,Tableau,0
+Freelance Social Copywriter,Excel,0
+Freelance Social Copywriter,REST,0
+Freelance Social Copywriter,GraphQL,0
+Frontend Developer Junior,Git,1
+Frontend Developer Junior,JavaScript,1
+Frontend Developer Junior,Python,0
+Frontend Developer Junior,SQL,0
+Frontend Developer Junior,Pandas,0
+Frontend Developer Junior,NumPy,0
+Frontend Developer Junior,FastAPI,0
+Frontend Developer Junior,Flask,0
+Frontend Developer Junior,Django,0
+Frontend Developer Junior,Docker,0
+Frontend Developer Junior,Kubernetes,0
+Frontend Developer Junior,AWS,0
+Frontend Developer Junior,Azure,0
+Frontend Developer Junior,GCP,0
+Frontend Developer Junior,Linux,0
+Frontend Developer Junior,React,0
+Frontend Developer Junior,TypeScript,0
+Frontend Developer Junior,Node.js,0
+Frontend Developer Junior,MongoDB,0
+Frontend Developer Junior,PostgreSQL,0
+Frontend Developer Junior,MySQL,0
+Frontend Developer Junior,Redis,0
+Frontend Developer Junior,Kafka,0
+Frontend Developer Junior,Spark,0
+Frontend Developer Junior,Airflow,0
+Frontend Developer Junior,TensorFlow,0
+Frontend Developer Junior,PyTorch,0
+Frontend Developer Junior,Power BI,0
+Frontend Developer Junior,Tableau,0
+Frontend Developer Junior,Excel,0
+Frontend Developer Junior,REST,0
+Frontend Developer Junior,GraphQL,0
+Full crew,Python,0
+Full crew,SQL,0
+Full crew,Pandas,0
+Full crew,NumPy,0
+Full crew,FastAPI,0
+Full crew,Flask,0
+Full crew,Django,0
+Full crew,Docker,0
+Full crew,Kubernetes,0
+Full crew,AWS,0
+Full crew,Azure,0
+Full crew,GCP,0
+Full crew,Git,0
+Full crew,Linux,0
+Full crew,React,0
+Full crew,JavaScript,0
+Full crew,TypeScript,0
+Full crew,Node.js,0
+Full crew,MongoDB,0
+Full crew,PostgreSQL,0
+Full crew,MySQL,0
+Full crew,Redis,0
+Full crew,Kafka,0
+Full crew,Spark,0
+Full crew,Airflow,0
+Full crew,TensorFlow,0
+Full crew,PyTorch,0
+Full crew,Power BI,0
+Full crew,Tableau,0
+Full crew,Excel,0
+Full crew,REST,0
+Full crew,GraphQL,0
+Funnel Builder,Python,0
+Funnel Builder,SQL,0
+Funnel Builder,Pandas,0
+Funnel Builder,NumPy,0
+Funnel Builder,FastAPI,0
+Funnel Builder,Flask,0
+Funnel Builder,Django,0
+Funnel Builder,Docker,0
+Funnel Builder,Kubernetes,0
+Funnel Builder,AWS,0
+Funnel Builder,Azure,0
+Funnel Builder,GCP,0
+Funnel Builder,Git,0
+Funnel Builder,Linux,0
+Funnel Builder,React,0
+Funnel Builder,JavaScript,0
+Funnel Builder,TypeScript,0
+Funnel Builder,Node.js,0
+Funnel Builder,MongoDB,0
+Funnel Builder,PostgreSQL,0
+Funnel Builder,MySQL,0
+Funnel Builder,Redis,0
+Funnel Builder,Kafka,0
+Funnel Builder,Spark,0
+Funnel Builder,Airflow,0
+Funnel Builder,TensorFlow,0
+Funnel Builder,PyTorch,0
+Funnel Builder,Power BI,0
+Funnel Builder,Tableau,0
+Funnel Builder,Excel,0
+Funnel Builder,REST,0
+Funnel Builder,GraphQL,0
+Graduate Business Operations Associate,Python,1
+Graduate Business Operations Associate,SQL,1
+Graduate Business Operations Associate,Git,1
+Graduate Business Operations Associate,REST,1
+Graduate Business Operations Associate,Pandas,0
+Graduate Business Operations Associate,NumPy,0
+Graduate Business Operations Associate,FastAPI,0
+Graduate Business Operations Associate,Flask,0
+Graduate Business Operations Associate,Django,0
+Graduate Business Operations Associate,Docker,0
+Graduate Business Operations Associate,Kubernetes,0
+Graduate Business Operations Associate,AWS,0
+Graduate Business Operations Associate,Azure,0
+Graduate Business Operations Associate,GCP,0
+Graduate Business Operations Associate,Linux,0
+Graduate Business Operations Associate,React,0
+Graduate Business Operations Associate,JavaScript,0
+Graduate Business Operations Associate,TypeScript,0
+Graduate Business Operations Associate,Node.js,0
+Graduate Business Operations Associate,MongoDB,0
+Graduate Business Operations Associate,PostgreSQL,0
+Graduate Business Operations Associate,MySQL,0
+Graduate Business Operations Associate,Redis,0
+Graduate Business Operations Associate,Kafka,0
+Graduate Business Operations Associate,Spark,0
+Graduate Business Operations Associate,Airflow,0
+Graduate Business Operations Associate,TensorFlow,0
+Graduate Business Operations Associate,PyTorch,0
+Graduate Business Operations Associate,Power BI,0
+Graduate Business Operations Associate,Tableau,0
+Graduate Business Operations Associate,Excel,0
+Graduate Business Operations Associate,GraphQL,0
+Graphic Designer,Git,1
+Graphic Designer,Python,0
+Graphic Designer,SQL,0
+Graphic Designer,Pandas,0
+Graphic Designer,NumPy,0
+Graphic Designer,FastAPI,0
+Graphic Designer,Flask,0
+Graphic Designer,Django,0
+Graphic Designer,Docker,0
+Graphic Designer,Kubernetes,0
+Graphic Designer,AWS,0
+Graphic Designer,Azure,0
+Graphic Designer,GCP,0
+Graphic Designer,Linux,0
+Graphic Designer,React,0
+Graphic Designer,JavaScript,0
+Graphic Designer,TypeScript,0
+Graphic Designer,Node.js,0
+Graphic Designer,MongoDB,0
+Graphic Designer,PostgreSQL,0
+Graphic Designer,MySQL,0
+Graphic Designer,Redis,0
+Graphic Designer,Kafka,0
+Graphic Designer,Spark,0
+Graphic Designer,Airflow,0
+Graphic Designer,TensorFlow,0
+Graphic Designer,PyTorch,0
+Graphic Designer,Power BI,0
+Graphic Designer,Tableau,0
+Graphic Designer,Excel,0
+Graphic Designer,REST,0
+Graphic Designer,GraphQL,0
+Guard,Git,1
+Guard,JavaScript,1
+Guard,Python,0
+Guard,SQL,0
+Guard,Pandas,0
+Guard,NumPy,0
+Guard,FastAPI,0
+Guard,Flask,0
+Guard,Django,0
+Guard,Docker,0
+Guard,Kubernetes,0
+Guard,AWS,0
+Guard,Azure,0
+Guard,GCP,0
+Guard,Linux,0
+Guard,React,0
+Guard,TypeScript,0
+Guard,Node.js,0
+Guard,MongoDB,0
+Guard,PostgreSQL,0
+Guard,MySQL,0
+Guard,Redis,0
+Guard,Kafka,0
+Guard,Spark,0
+Guard,Airflow,0
+Guard,TensorFlow,0
+Guard,PyTorch,0
+Guard,Power BI,0
+Guard,Tableau,0
+Guard,Excel,0
+Guard,REST,0
+Guard,GraphQL,0
+HR Lead,Git,1
+HR Lead,Excel,1
+HR Lead,Python,0
+HR Lead,SQL,0
+HR Lead,Pandas,0
+HR Lead,NumPy,0
+HR Lead,FastAPI,0
+HR Lead,Flask,0
+HR Lead,Django,0
+HR Lead,Docker,0
+HR Lead,Kubernetes,0
+HR Lead,AWS,0
+HR Lead,Azure,0
+HR Lead,GCP,0
+HR Lead,Linux,0
+HR Lead,React,0
+HR Lead,JavaScript,0
+HR Lead,TypeScript,0
+HR Lead,Node.js,0
+HR Lead,MongoDB,0
+HR Lead,PostgreSQL,0
+HR Lead,MySQL,0
+HR Lead,Redis,0
+HR Lead,Kafka,0
+HR Lead,Spark,0
+HR Lead,Airflow,0
+HR Lead,TensorFlow,0
+HR Lead,PyTorch,0
+HR Lead,Power BI,0
+HR Lead,Tableau,0
+HR Lead,REST,0
+HR Lead,GraphQL,0
+Housekeeper Kabannas Newcastle,Git,1
+Housekeeper Kabannas Newcastle,Excel,1
+Housekeeper Kabannas Newcastle,Python,0
+Housekeeper Kabannas Newcastle,SQL,0
+Housekeeper Kabannas Newcastle,Pandas,0
+Housekeeper Kabannas Newcastle,NumPy,0
+Housekeeper Kabannas Newcastle,FastAPI,0
+Housekeeper Kabannas Newcastle,Flask,0
+Housekeeper Kabannas Newcastle,Django,0
+Housekeeper Kabannas Newcastle,Docker,0
+Housekeeper Kabannas Newcastle,Kubernetes,0
+Housekeeper Kabannas Newcastle,AWS,0
+Housekeeper Kabannas Newcastle,Azure,0
+Housekeeper Kabannas Newcastle,GCP,0
+Housekeeper Kabannas Newcastle,Linux,0
+Housekeeper Kabannas Newcastle,React,0
+Housekeeper Kabannas Newcastle,JavaScript,0
+Housekeeper Kabannas Newcastle,TypeScript,0
+Housekeeper Kabannas Newcastle,Node.js,0
+Housekeeper Kabannas Newcastle,MongoDB,0
+Housekeeper Kabannas Newcastle,PostgreSQL,0
+Housekeeper Kabannas Newcastle,MySQL,0
+Housekeeper Kabannas Newcastle,Redis,0
+Housekeeper Kabannas Newcastle,Kafka,0
+Housekeeper Kabannas Newcastle,Spark,0
+Housekeeper Kabannas Newcastle,Airflow,0
+Housekeeper Kabannas Newcastle,TensorFlow,0
+Housekeeper Kabannas Newcastle,PyTorch,0
+Housekeeper Kabannas Newcastle,Power BI,0
+Housekeeper Kabannas Newcastle,Tableau,0
+Housekeeper Kabannas Newcastle,REST,0
+Housekeeper Kabannas Newcastle,GraphQL,0
+Industry Analysis,Git,1
+Industry Analysis,Python,0
+Industry Analysis,SQL,0
+Industry Analysis,Pandas,0
+Industry Analysis,NumPy,0
+Industry Analysis,FastAPI,0
+Industry Analysis,Flask,0
+Industry Analysis,Django,0
+Industry Analysis,Docker,0
+Industry Analysis,Kubernetes,0
+Industry Analysis,AWS,0
+Industry Analysis,Azure,0
+Industry Analysis,GCP,0
+Industry Analysis,Linux,0
+Industry Analysis,React,0
+Industry Analysis,JavaScript,0
+Industry Analysis,TypeScript,0
+Industry Analysis,Node.js,0
+Industry Analysis,MongoDB,0
+Industry Analysis,PostgreSQL,0
+Industry Analysis,MySQL,0
+Industry Analysis,Redis,0
+Industry Analysis,Kafka,0
+Industry Analysis,Spark,0
+Industry Analysis,Airflow,0
+Industry Analysis,TensorFlow,0
+Industry Analysis,PyTorch,0
+Industry Analysis,Power BI,0
+Industry Analysis,Tableau,0
+Industry Analysis,Excel,0
+Industry Analysis,REST,0
+Industry Analysis,GraphQL,0
+IoT Specialist,Git,1
+IoT Specialist,Python,0
+IoT Specialist,SQL,0
+IoT Specialist,Pandas,0
+IoT Specialist,NumPy,0
+IoT Specialist,FastAPI,0
+IoT Specialist,Flask,0
+IoT Specialist,Django,0
+IoT Specialist,Docker,0
+IoT Specialist,Kubernetes,0
+IoT Specialist,AWS,0
+IoT Specialist,Azure,0
+IoT Specialist,GCP,0
+IoT Specialist,Linux,0
+IoT Specialist,React,0
+IoT Specialist,JavaScript,0
+IoT Specialist,TypeScript,0
+IoT Specialist,Node.js,0
+IoT Specialist,MongoDB,0
+IoT Specialist,PostgreSQL,0
+IoT Specialist,MySQL,0
+IoT Specialist,Redis,0
+IoT Specialist,Kafka,0
+IoT Specialist,Spark,0
+IoT Specialist,Airflow,0
+IoT Specialist,TensorFlow,0
+IoT Specialist,PyTorch,0
+IoT Specialist,Power BI,0
+IoT Specialist,Tableau,0
+IoT Specialist,Excel,0
+IoT Specialist,REST,0
+IoT Specialist,GraphQL,0
+Jack Ward,Python,0
+Jack Ward,SQL,0
+Jack Ward,Pandas,0
+Jack Ward,NumPy,0
+Jack Ward,FastAPI,0
+Jack Ward,Flask,0
+Jack Ward,Django,0
+Jack Ward,Docker,0
+Jack Ward,Kubernetes,0
+Jack Ward,AWS,0
+Jack Ward,Azure,0
+Jack Ward,GCP,0
+Jack Ward,Git,0
+Jack Ward,Linux,0
+Jack Ward,React,0
+Jack Ward,JavaScript,0
+Jack Ward,TypeScript,0
+Jack Ward,Node.js,0
+Jack Ward,MongoDB,0
+Jack Ward,PostgreSQL,0
+Jack Ward,MySQL,0
+Jack Ward,Redis,0
+Jack Ward,Kafka,0
+Jack Ward,Spark,0
+Jack Ward,Airflow,0
+Jack Ward,TensorFlow,0
+Jack Ward,PyTorch,0
+Jack Ward,Power BI,0
+Jack Ward,Tableau,0
+Jack Ward,Excel,0
+Jack Ward,REST,0
+Jack Ward,GraphQL,0
+Job Title,Python,0
+Job Title,SQL,0
+Job Title,Pandas,0
+Job Title,NumPy,0
+Job Title,FastAPI,0
+Job Title,Flask,0
+Job Title,Django,0
+Job Title,Docker,0
+Job Title,Kubernetes,0
+Job Title,AWS,0
+Job Title,Azure,0
+Job Title,GCP,0
+Job Title,Git,0
+Job Title,Linux,0
+Job Title,React,0
+Job Title,JavaScript,0
+Job Title,TypeScript,0
+Job Title,Node.js,0
+Job Title,MongoDB,0
+Job Title,PostgreSQL,0
+Job Title,MySQL,0
+Job Title,Redis,0
+Job Title,Kafka,0
+Job Title,Spark,0
+Job Title,Airflow,0
+Job Title,TensorFlow,0
+Job Title,PyTorch,0
+Job Title,Power BI,0
+Job Title,Tableau,0
+Job Title,Excel,0
+Job Title,REST,0
+Job Title,GraphQL,0
+LEAD,Python,0
+LEAD,SQL,0
+LEAD,Pandas,0
+LEAD,NumPy,0
+LEAD,FastAPI,0
+LEAD,Flask,0
+LEAD,Django,0
+LEAD,Docker,0
+LEAD,Kubernetes,0
+LEAD,AWS,0
+LEAD,Azure,0
+LEAD,GCP,0
+LEAD,Git,0
+LEAD,Linux,0
+LEAD,React,0
+LEAD,JavaScript,0
+LEAD,TypeScript,0
+LEAD,Node.js,0
+LEAD,MongoDB,0
+LEAD,PostgreSQL,0
+LEAD,MySQL,0
+LEAD,Redis,0
+LEAD,Kafka,0
+LEAD,Spark,0
+LEAD,Airflow,0
+LEAD,TensorFlow,0
+LEAD,PyTorch,0
+LEAD,Power BI,0
+LEAD,Tableau,0
+LEAD,Excel,0
+LEAD,REST,0
+LEAD,GraphQL,0
+Maintenance &amp; MEP Technician,Git,1
+Maintenance &amp; MEP Technician,Excel,1
+Maintenance &amp; MEP Technician,REST,1
+Maintenance &amp; MEP Technician,Python,0
+Maintenance &amp; MEP Technician,SQL,0
+Maintenance &amp; MEP Technician,Pandas,0
+Maintenance &amp; MEP Technician,NumPy,0
+Maintenance &amp; MEP Technician,FastAPI,0
+Maintenance &amp; MEP Technician,Flask,0
+Maintenance &amp; MEP Technician,Django,0
+Maintenance &amp; MEP Technician,Docker,0
+Maintenance &amp; MEP Technician,Kubernetes,0
+Maintenance &amp; MEP Technician,AWS,0
+Maintenance &amp; MEP Technician,Azure,0
+Maintenance &amp; MEP Technician,GCP,0
+Maintenance &amp; MEP Technician,Linux,0
+Maintenance &amp; MEP Technician,React,0
+Maintenance &amp; MEP Technician,JavaScript,0
+Maintenance &amp; MEP Technician,TypeScript,0
+Maintenance &amp; MEP Technician,Node.js,0
+Maintenance &amp; MEP Technician,MongoDB,0
+Maintenance &amp; MEP Technician,PostgreSQL,0
+Maintenance &amp; MEP Technician,MySQL,0
+Maintenance &amp; MEP Technician,Redis,0
+Maintenance &amp; MEP Technician,Kafka,0
+Maintenance &amp; MEP Technician,Spark,0
+Maintenance &amp; MEP Technician,Airflow,0
+Maintenance &amp; MEP Technician,TensorFlow,0
+Maintenance &amp; MEP Technician,PyTorch,0
+Maintenance &amp; MEP Technician,Power BI,0
+Maintenance &amp; MEP Technician,Tableau,0
+Maintenance &amp; MEP Technician,GraphQL,0
+Manager Social Art Director,Excel,1
+Manager Social Art Director,Python,0
+Manager Social Art Director,SQL,0
+Manager Social Art Director,Pandas,0
+Manager Social Art Director,NumPy,0
+Manager Social Art Director,FastAPI,0
+Manager Social Art Director,Flask,0
+Manager Social Art Director,Django,0
+Manager Social Art Director,Docker,0
+Manager Social Art Director,Kubernetes,0
+Manager Social Art Director,AWS,0
+Manager Social Art Director,Azure,0
+Manager Social Art Director,GCP,0
+Manager Social Art Director,Git,0
+Manager Social Art Director,Linux,0
+Manager Social Art Director,React,0
+Manager Social Art Director,JavaScript,0
+Manager Social Art Director,TypeScript,0
+Manager Social Art Director,Node.js,0
+Manager Social Art Director,MongoDB,0
+Manager Social Art Director,PostgreSQL,0
+Manager Social Art Director,MySQL,0
+Manager Social Art Director,Redis,0
+Manager Social Art Director,Kafka,0
+Manager Social Art Director,Spark,0
+Manager Social Art Director,Airflow,0
+Manager Social Art Director,TensorFlow,0
+Manager Social Art Director,PyTorch,0
+Manager Social Art Director,Power BI,0
+Manager Social Art Director,Tableau,0
+Manager Social Art Director,REST,0
+Manager Social Art Director,GraphQL,0
+Maria Covlea,Git,1
+Maria Covlea,Python,0
+Maria Covlea,SQL,0
+Maria Covlea,Pandas,0
+Maria Covlea,NumPy,0
+Maria Covlea,FastAPI,0
+Maria Covlea,Flask,0
+Maria Covlea,Django,0
+Maria Covlea,Docker,0
+Maria Covlea,Kubernetes,0
+Maria Covlea,AWS,0
+Maria Covlea,Azure,0
+Maria Covlea,GCP,0
+Maria Covlea,Linux,0
+Maria Covlea,React,0
+Maria Covlea,JavaScript,0
+Maria Covlea,TypeScript,0
+Maria Covlea,Node.js,0
+Maria Covlea,MongoDB,0
+Maria Covlea,PostgreSQL,0
+Maria Covlea,MySQL,0
+Maria Covlea,Redis,0
+Maria Covlea,Kafka,0
+Maria Covlea,Spark,0
+Maria Covlea,Airflow,0
+Maria Covlea,TensorFlow,0
+Maria Covlea,PyTorch,0
+Maria Covlea,Power BI,0
+Maria Covlea,Tableau,0
+Maria Covlea,Excel,0
+Maria Covlea,REST,0
+Maria Covlea,GraphQL,0
+Mortgage Operations Loan Processor,Git,1
+Mortgage Operations Loan Processor,Excel,1
+Mortgage Operations Loan Processor,REST,1
+Mortgage Operations Loan Processor,Python,0
+Mortgage Operations Loan Processor,SQL,0
+Mortgage Operations Loan Processor,Pandas,0
+Mortgage Operations Loan Processor,NumPy,0
+Mortgage Operations Loan Processor,FastAPI,0
+Mortgage Operations Loan Processor,Flask,0
+Mortgage Operations Loan Processor,Django,0
+Mortgage Operations Loan Processor,Docker,0
+Mortgage Operations Loan Processor,Kubernetes,0
+Mortgage Operations Loan Processor,AWS,0
+Mortgage Operations Loan Processor,Azure,0
+Mortgage Operations Loan Processor,GCP,0
+Mortgage Operations Loan Processor,Linux,0
+Mortgage Operations Loan Processor,React,0
+Mortgage Operations Loan Processor,JavaScript,0
+Mortgage Operations Loan Processor,TypeScript,0
+Mortgage Operations Loan Processor,Node.js,0
+Mortgage Operations Loan Processor,MongoDB,0
+Mortgage Operations Loan Processor,PostgreSQL,0
+Mortgage Operations Loan Processor,MySQL,0
+Mortgage Operations Loan Processor,Redis,0
+Mortgage Operations Loan Processor,Kafka,0
+Mortgage Operations Loan Processor,Spark,0
+Mortgage Operations Loan Processor,Airflow,0
+Mortgage Operations Loan Processor,TensorFlow,0
+Mortgage Operations Loan Processor,PyTorch,0
+Mortgage Operations Loan Processor,Power BI,0
+Mortgage Operations Loan Processor,Tableau,0
+Mortgage Operations Loan Processor,GraphQL,0
+My Green Lab,Git,1
+My Green Lab,JavaScript,1
+My Green Lab,REST,1
+My Green Lab,Python,0
+My Green Lab,SQL,0
+My Green Lab,Pandas,0
+My Green Lab,NumPy,0
+My Green Lab,FastAPI,0
+My Green Lab,Flask,0
+My Green Lab,Django,0
+My Green Lab,Docker,0
+My Green Lab,Kubernetes,0
+My Green Lab,AWS,0
+My Green Lab,Azure,0
+My Green Lab,GCP,0
+My Green Lab,Linux,0
+My Green Lab,React,0
+My Green Lab,TypeScript,0
+My Green Lab,Node.js,0
+My Green Lab,MongoDB,0
+My Green Lab,PostgreSQL,0
+My Green Lab,MySQL,0
+My Green Lab,Redis,0
+My Green Lab,Kafka,0
+My Green Lab,Spark,0
+My Green Lab,Airflow,0
+My Green Lab,TensorFlow,0
+My Green Lab,PyTorch,0
+My Green Lab,Power BI,0
+My Green Lab,Tableau,0
+My Green Lab,Excel,0
+My Green Lab,GraphQL,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Python,0
+NiÃ±era Ayuda con los deberes Sin experiencia,SQL,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Pandas,0
+NiÃ±era Ayuda con los deberes Sin experiencia,NumPy,0
+NiÃ±era Ayuda con los deberes Sin experiencia,FastAPI,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Flask,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Django,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Docker,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Kubernetes,0
+NiÃ±era Ayuda con los deberes Sin experiencia,AWS,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Azure,0
+NiÃ±era Ayuda con los deberes Sin experiencia,GCP,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Git,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Linux,0
+NiÃ±era Ayuda con los deberes Sin experiencia,React,0
+NiÃ±era Ayuda con los deberes Sin experiencia,JavaScript,0
+NiÃ±era Ayuda con los deberes Sin experiencia,TypeScript,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Node.js,0
+NiÃ±era Ayuda con los deberes Sin experiencia,MongoDB,0
+NiÃ±era Ayuda con los deberes Sin experiencia,PostgreSQL,0
+NiÃ±era Ayuda con los deberes Sin experiencia,MySQL,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Redis,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Kafka,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Spark,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Airflow,0
+NiÃ±era Ayuda con los deberes Sin experiencia,TensorFlow,0
+NiÃ±era Ayuda con los deberes Sin experiencia,PyTorch,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Power BI,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Tableau,0
+NiÃ±era Ayuda con los deberes Sin experiencia,Excel,0
+NiÃ±era Ayuda con los deberes Sin experiencia,REST,0
+NiÃ±era Ayuda con los deberes Sin experiencia,GraphQL,0
+Non Teaching 21 Posts,Git,1
+Non Teaching 21 Posts,Python,0
+Non Teaching 21 Posts,SQL,0
+Non Teaching 21 Posts,Pandas,0
+Non Teaching 21 Posts,NumPy,0
+Non Teaching 21 Posts,FastAPI,0
+Non Teaching 21 Posts,Flask,0
+Non Teaching 21 Posts,Django,0
+Non Teaching 21 Posts,Docker,0
+Non Teaching 21 Posts,Kubernetes,0
+Non Teaching 21 Posts,AWS,0
+Non Teaching 21 Posts,Azure,0
+Non Teaching 21 Posts,GCP,0
+Non Teaching 21 Posts,Linux,0
+Non Teaching 21 Posts,React,0
+Non Teaching 21 Posts,JavaScript,0
+Non Teaching 21 Posts,TypeScript,0
+Non Teaching 21 Posts,Node.js,0
+Non Teaching 21 Posts,MongoDB,0
+Non Teaching 21 Posts,PostgreSQL,0
+Non Teaching 21 Posts,MySQL,0
+Non Teaching 21 Posts,Redis,0
+Non Teaching 21 Posts,Kafka,0
+Non Teaching 21 Posts,Spark,0
+Non Teaching 21 Posts,Airflow,0
+Non Teaching 21 Posts,TensorFlow,0
+Non Teaching 21 Posts,PyTorch,0
+Non Teaching 21 Posts,Power BI,0
+Non Teaching 21 Posts,Tableau,0
+Non Teaching 21 Posts,Excel,0
+Non Teaching 21 Posts,REST,0
+Non Teaching 21 Posts,GraphQL,0
+Operations Manager,Excel,1
+Operations Manager,Python,0
+Operations Manager,SQL,0
+Operations Manager,Pandas,0
+Operations Manager,NumPy,0
+Operations Manager,FastAPI,0
+Operations Manager,Flask,0
+Operations Manager,Django,0
+Operations Manager,Docker,0
+Operations Manager,Kubernetes,0
+Operations Manager,AWS,0
+Operations Manager,Azure,0
+Operations Manager,GCP,0
+Operations Manager,Git,0
+Operations Manager,Linux,0
+Operations Manager,React,0
+Operations Manager,JavaScript,0
+Operations Manager,TypeScript,0
+Operations Manager,Node.js,0
+Operations Manager,MongoDB,0
+Operations Manager,PostgreSQL,0
+Operations Manager,MySQL,0
+Operations Manager,Redis,0
+Operations Manager,Kafka,0
+Operations Manager,Spark,0
+Operations Manager,Airflow,0
+Operations Manager,TensorFlow,0
+Operations Manager,PyTorch,0
+Operations Manager,Power BI,0
+Operations Manager,Tableau,0
+Operations Manager,REST,0
+Operations Manager,GraphQL,0
+Operator,Python,0
+Operator,SQL,0
+Operator,Pandas,0
+Operator,NumPy,0
+Operator,FastAPI,0
+Operator,Flask,0
+Operator,Django,0
+Operator,Docker,0
+Operator,Kubernetes,0
+Operator,AWS,0
+Operator,Azure,0
+Operator,GCP,0
+Operator,Git,0
+Operator,Linux,0
+Operator,React,0
+Operator,JavaScript,0
+Operator,TypeScript,0
+Operator,Node.js,0
+Operator,MongoDB,0
+Operator,PostgreSQL,0
+Operator,MySQL,0
+Operator,Redis,0
+Operator,Kafka,0
+Operator,Spark,0
+Operator,Airflow,0
+Operator,TensorFlow,0
+Operator,PyTorch,0
+Operator,Power BI,0
+Operator,Tableau,0
+Operator,Excel,0
+Operator,REST,0
+Operator,GraphQL,0
+Owner,Python,0
+Owner,SQL,0
+Owner,Pandas,0
+Owner,NumPy,0
+Owner,FastAPI,0
+Owner,Flask,0
+Owner,Django,0
+Owner,Docker,0
+Owner,Kubernetes,0
+Owner,AWS,0
+Owner,Azure,0
+Owner,GCP,0
+Owner,Git,0
+Owner,Linux,0
+Owner,React,0
+Owner,JavaScript,0
+Owner,TypeScript,0
+Owner,Node.js,0
+Owner,MongoDB,0
+Owner,PostgreSQL,0
+Owner,MySQL,0
+Owner,Redis,0
+Owner,Kafka,0
+Owner,Spark,0
+Owner,Airflow,0
+Owner,TensorFlow,0
+Owner,PyTorch,0
+Owner,Power BI,0
+Owner,Tableau,0
+Owner,Excel,0
+Owner,REST,0
+Owner,GraphQL,0
+Painter,Git,1
+Painter,Excel,1
+Painter,REST,1
+Painter,Python,0
+Painter,SQL,0
+Painter,Pandas,0
+Painter,NumPy,0
+Painter,FastAPI,0
+Painter,Flask,0
+Painter,Django,0
+Painter,Docker,0
+Painter,Kubernetes,0
+Painter,AWS,0
+Painter,Azure,0
+Painter,GCP,0
+Painter,Linux,0
+Painter,React,0
+Painter,JavaScript,0
+Painter,TypeScript,0
+Painter,Node.js,0
+Painter,MongoDB,0
+Painter,PostgreSQL,0
+Painter,MySQL,0
+Painter,Redis,0
+Painter,Kafka,0
+Painter,Spark,0
+Painter,Airflow,0
+Painter,TensorFlow,0
+Painter,PyTorch,0
+Painter,Power BI,0
+Painter,Tableau,0
+Painter,GraphQL,0
+Payroll Specialist,Python,0
+Payroll Specialist,SQL,0
+Payroll Specialist,Pandas,0
+Payroll Specialist,NumPy,0
+Payroll Specialist,FastAPI,0
+Payroll Specialist,Flask,0
+Payroll Specialist,Django,0
+Payroll Specialist,Docker,0
+Payroll Specialist,Kubernetes,0
+Payroll Specialist,AWS,0
+Payroll Specialist,Azure,0
+Payroll Specialist,GCP,0
+Payroll Specialist,Git,0
+Payroll Specialist,Linux,0
+Payroll Specialist,React,0
+Payroll Specialist,JavaScript,0
+Payroll Specialist,TypeScript,0
+Payroll Specialist,Node.js,0
+Payroll Specialist,MongoDB,0
+Payroll Specialist,PostgreSQL,0
+Payroll Specialist,MySQL,0
+Payroll Specialist,Redis,0
+Payroll Specialist,Kafka,0
+Payroll Specialist,Spark,0
+Payroll Specialist,Airflow,0
+Payroll Specialist,TensorFlow,0
+Payroll Specialist,PyTorch,0
+Payroll Specialist,Power BI,0
+Payroll Specialist,Tableau,0
+Payroll Specialist,Excel,0
+Payroll Specialist,REST,0
+Payroll Specialist,GraphQL,0
+Pengajar Biologi Online,Python,0
+Pengajar Biologi Online,SQL,0
+Pengajar Biologi Online,Pandas,0
+Pengajar Biologi Online,NumPy,0
+Pengajar Biologi Online,FastAPI,0
+Pengajar Biologi Online,Flask,0
+Pengajar Biologi Online,Django,0
+Pengajar Biologi Online,Docker,0
+Pengajar Biologi Online,Kubernetes,0
+Pengajar Biologi Online,AWS,0
+Pengajar Biologi Online,Azure,0
+Pengajar Biologi Online,GCP,0
+Pengajar Biologi Online,Git,0
+Pengajar Biologi Online,Linux,0
+Pengajar Biologi Online,React,0
+Pengajar Biologi Online,JavaScript,0
+Pengajar Biologi Online,TypeScript,0
+Pengajar Biologi Online,Node.js,0
+Pengajar Biologi Online,MongoDB,0
+Pengajar Biologi Online,PostgreSQL,0
+Pengajar Biologi Online,MySQL,0
+Pengajar Biologi Online,Redis,0
+Pengajar Biologi Online,Kafka,0
+Pengajar Biologi Online,Spark,0
+Pengajar Biologi Online,Airflow,0
+Pengajar Biologi Online,TensorFlow,0
+Pengajar Biologi Online,PyTorch,0
+Pengajar Biologi Online,Power BI,0
+Pengajar Biologi Online,Tableau,0
+Pengajar Biologi Online,Excel,0
+Pengajar Biologi Online,REST,0
+Pengajar Biologi Online,GraphQL,0
+People Operations Specialist,REST,1
+People Operations Specialist,Python,0
+People Operations Specialist,SQL,0
+People Operations Specialist,Pandas,0
+People Operations Specialist,NumPy,0
+People Operations Specialist,FastAPI,0
+People Operations Specialist,Flask,0
+People Operations Specialist,Django,0
+People Operations Specialist,Docker,0
+People Operations Specialist,Kubernetes,0
+People Operations Specialist,AWS,0
+People Operations Specialist,Azure,0
+People Operations Specialist,GCP,0
+People Operations Specialist,Git,0
+People Operations Specialist,Linux,0
+People Operations Specialist,React,0
+People Operations Specialist,JavaScript,0
+People Operations Specialist,TypeScript,0
+People Operations Specialist,Node.js,0
+People Operations Specialist,MongoDB,0
+People Operations Specialist,PostgreSQL,0
+People Operations Specialist,MySQL,0
+People Operations Specialist,Redis,0
+People Operations Specialist,Kafka,0
+People Operations Specialist,Spark,0
+People Operations Specialist,Airflow,0
+People Operations Specialist,TensorFlow,0
+People Operations Specialist,PyTorch,0
+People Operations Specialist,Power BI,0
+People Operations Specialist,Tableau,0
+People Operations Specialist,Excel,0
+People Operations Specialist,GraphQL,0
+Physiotherapist UK,Git,1
+Physiotherapist UK,Excel,1
+Physiotherapist UK,Python,0
+Physiotherapist UK,SQL,0
+Physiotherapist UK,Pandas,0
+Physiotherapist UK,NumPy,0
+Physiotherapist UK,FastAPI,0
+Physiotherapist UK,Flask,0
+Physiotherapist UK,Django,0
+Physiotherapist UK,Docker,0
+Physiotherapist UK,Kubernetes,0
+Physiotherapist UK,AWS,0
+Physiotherapist UK,Azure,0
+Physiotherapist UK,GCP,0
+Physiotherapist UK,Linux,0
+Physiotherapist UK,React,0
+Physiotherapist UK,JavaScript,0
+Physiotherapist UK,TypeScript,0
+Physiotherapist UK,Node.js,0
+Physiotherapist UK,MongoDB,0
+Physiotherapist UK,PostgreSQL,0
+Physiotherapist UK,MySQL,0
+Physiotherapist UK,Redis,0
+Physiotherapist UK,Kafka,0
+Physiotherapist UK,Spark,0
+Physiotherapist UK,Airflow,0
+Physiotherapist UK,TensorFlow,0
+Physiotherapist UK,PyTorch,0
+Physiotherapist UK,Power BI,0
+Physiotherapist UK,Tableau,0
+Physiotherapist UK,REST,0
+Physiotherapist UK,GraphQL,0
+Process Specialist,Python,0
+Process Specialist,SQL,0
+Process Specialist,Pandas,0
+Process Specialist,NumPy,0
+Process Specialist,FastAPI,0
+Process Specialist,Flask,0
+Process Specialist,Django,0
+Process Specialist,Docker,0
+Process Specialist,Kubernetes,0
+Process Specialist,AWS,0
+Process Specialist,Azure,0
+Process Specialist,GCP,0
+Process Specialist,Git,0
+Process Specialist,Linux,0
+Process Specialist,React,0
+Process Specialist,JavaScript,0
+Process Specialist,TypeScript,0
+Process Specialist,Node.js,0
+Process Specialist,MongoDB,0
+Process Specialist,PostgreSQL,0
+Process Specialist,MySQL,0
+Process Specialist,Redis,0
+Process Specialist,Kafka,0
+Process Specialist,Spark,0
+Process Specialist,Airflow,0
+Process Specialist,TensorFlow,0
+Process Specialist,PyTorch,0
+Process Specialist,Power BI,0
+Process Specialist,Tableau,0
+Process Specialist,Excel,0
+Process Specialist,REST,0
+Process Specialist,GraphQL,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Python,1
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,SQL,1
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Excel,1
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Pandas,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,NumPy,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,FastAPI,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Flask,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Django,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Docker,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Kubernetes,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,AWS,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Azure,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,GCP,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Git,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Linux,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,React,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,JavaScript,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,TypeScript,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Node.js,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,MongoDB,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,PostgreSQL,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,MySQL,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Redis,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Kafka,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Spark,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Airflow,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,TensorFlow,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,PyTorch,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Power BI,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,Tableau,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,REST,0
+Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados,GraphQL,0
+Property Maintenance &amp; Operations Coordinator,Excel,1
+Property Maintenance &amp; Operations Coordinator,Python,0
+Property Maintenance &amp; Operations Coordinator,SQL,0
+Property Maintenance &amp; Operations Coordinator,Pandas,0
+Property Maintenance &amp; Operations Coordinator,NumPy,0
+Property Maintenance &amp; Operations Coordinator,FastAPI,0
+Property Maintenance &amp; Operations Coordinator,Flask,0
+Property Maintenance &amp; Operations Coordinator,Django,0
+Property Maintenance &amp; Operations Coordinator,Docker,0
+Property Maintenance &amp; Operations Coordinator,Kubernetes,0
+Property Maintenance &amp; Operations Coordinator,AWS,0
+Property Maintenance &amp; Operations Coordinator,Azure,0
+Property Maintenance &amp; Operations Coordinator,GCP,0
+Property Maintenance &amp; Operations Coordinator,Git,0
+Property Maintenance &amp; Operations Coordinator,Linux,0
+Property Maintenance &amp; Operations Coordinator,React,0
+Property Maintenance &amp; Operations Coordinator,JavaScript,0
+Property Maintenance &amp; Operations Coordinator,TypeScript,0
+Property Maintenance &amp; Operations Coordinator,Node.js,0
+Property Maintenance &amp; Operations Coordinator,MongoDB,0
+Property Maintenance &amp; Operations Coordinator,PostgreSQL,0
+Property Maintenance &amp; Operations Coordinator,MySQL,0
+Property Maintenance &amp; Operations Coordinator,Redis,0
+Property Maintenance &amp; Operations Coordinator,Kafka,0
+Property Maintenance &amp; Operations Coordinator,Spark,0
+Property Maintenance &amp; Operations Coordinator,Airflow,0
+Property Maintenance &amp; Operations Coordinator,TensorFlow,0
+Property Maintenance &amp; Operations Coordinator,PyTorch,0
+Property Maintenance &amp; Operations Coordinator,Power BI,0
+Property Maintenance &amp; Operations Coordinator,Tableau,0
+Property Maintenance &amp; Operations Coordinator,REST,0
+Property Maintenance &amp; Operations Coordinator,GraphQL,0
+Restoration Estimator,Git,1
+Restoration Estimator,REST,1
+Restoration Estimator,Python,0
+Restoration Estimator,SQL,0
+Restoration Estimator,Pandas,0
+Restoration Estimator,NumPy,0
+Restoration Estimator,FastAPI,0
+Restoration Estimator,Flask,0
+Restoration Estimator,Django,0
+Restoration Estimator,Docker,0
+Restoration Estimator,Kubernetes,0
+Restoration Estimator,AWS,0
+Restoration Estimator,Azure,0
+Restoration Estimator,GCP,0
+Restoration Estimator,Linux,0
+Restoration Estimator,React,0
+Restoration Estimator,JavaScript,0
+Restoration Estimator,TypeScript,0
+Restoration Estimator,Node.js,0
+Restoration Estimator,MongoDB,0
+Restoration Estimator,PostgreSQL,0
+Restoration Estimator,MySQL,0
+Restoration Estimator,Redis,0
+Restoration Estimator,Kafka,0
+Restoration Estimator,Spark,0
+Restoration Estimator,Airflow,0
+Restoration Estimator,TensorFlow,0
+Restoration Estimator,PyTorch,0
+Restoration Estimator,Power BI,0
+Restoration Estimator,Tableau,0
+Restoration Estimator,Excel,0
+Restoration Estimator,GraphQL,0
+Senior Counsel Project Finance &amp; Commercial,Excel,1
+Senior Counsel Project Finance &amp; Commercial,REST,1
+Senior Counsel Project Finance &amp; Commercial,Python,0
+Senior Counsel Project Finance &amp; Commercial,SQL,0
+Senior Counsel Project Finance &amp; Commercial,Pandas,0
+Senior Counsel Project Finance &amp; Commercial,NumPy,0
+Senior Counsel Project Finance &amp; Commercial,FastAPI,0
+Senior Counsel Project Finance &amp; Commercial,Flask,0
+Senior Counsel Project Finance &amp; Commercial,Django,0
+Senior Counsel Project Finance &amp; Commercial,Docker,0
+Senior Counsel Project Finance &amp; Commercial,Kubernetes,0
+Senior Counsel Project Finance &amp; Commercial,AWS,0
+Senior Counsel Project Finance &amp; Commercial,Azure,0
+Senior Counsel Project Finance &amp; Commercial,GCP,0
+Senior Counsel Project Finance &amp; Commercial,Git,0
+Senior Counsel Project Finance &amp; Commercial,Linux,0
+Senior Counsel Project Finance &amp; Commercial,React,0
+Senior Counsel Project Finance &amp; Commercial,JavaScript,0
+Senior Counsel Project Finance &amp; Commercial,TypeScript,0
+Senior Counsel Project Finance &amp; Commercial,Node.js,0
+Senior Counsel Project Finance &amp; Commercial,MongoDB,0
+Senior Counsel Project Finance &amp; Commercial,PostgreSQL,0
+Senior Counsel Project Finance &amp; Commercial,MySQL,0
+Senior Counsel Project Finance &amp; Commercial,Redis,0
+Senior Counsel Project Finance &amp; Commercial,Kafka,0
+Senior Counsel Project Finance &amp; Commercial,Spark,0
+Senior Counsel Project Finance &amp; Commercial,Airflow,0
+Senior Counsel Project Finance &amp; Commercial,TensorFlow,0
+Senior Counsel Project Finance &amp; Commercial,PyTorch,0
+Senior Counsel Project Finance &amp; Commercial,Power BI,0
+Senior Counsel Project Finance &amp; Commercial,Tableau,0
+Senior Counsel Project Finance &amp; Commercial,GraphQL,0
+Senior Director of Brand Marketing,AWS,1
+Senior Director of Brand Marketing,Git,1
+Senior Director of Brand Marketing,REST,1
+Senior Director of Brand Marketing,Python,0
+Senior Director of Brand Marketing,SQL,0
+Senior Director of Brand Marketing,Pandas,0
+Senior Director of Brand Marketing,NumPy,0
+Senior Director of Brand Marketing,FastAPI,0
+Senior Director of Brand Marketing,Flask,0
+Senior Director of Brand Marketing,Django,0
+Senior Director of Brand Marketing,Docker,0
+Senior Director of Brand Marketing,Kubernetes,0
+Senior Director of Brand Marketing,Azure,0
+Senior Director of Brand Marketing,GCP,0
+Senior Director of Brand Marketing,Linux,0
+Senior Director of Brand Marketing,React,0
+Senior Director of Brand Marketing,JavaScript,0
+Senior Director of Brand Marketing,TypeScript,0
+Senior Director of Brand Marketing,Node.js,0
+Senior Director of Brand Marketing,MongoDB,0
+Senior Director of Brand Marketing,PostgreSQL,0
+Senior Director of Brand Marketing,MySQL,0
+Senior Director of Brand Marketing,Redis,0
+Senior Director of Brand Marketing,Kafka,0
+Senior Director of Brand Marketing,Spark,0
+Senior Director of Brand Marketing,Airflow,0
+Senior Director of Brand Marketing,TensorFlow,0
+Senior Director of Brand Marketing,PyTorch,0
+Senior Director of Brand Marketing,Power BI,0
+Senior Director of Brand Marketing,Tableau,0
+Senior Director of Brand Marketing,Excel,0
+Senior Director of Brand Marketing,GraphQL,0
+Sharetea Edmonton City Centre,Python,0
+Sharetea Edmonton City Centre,SQL,0
+Sharetea Edmonton City Centre,Pandas,0
+Sharetea Edmonton City Centre,NumPy,0
+Sharetea Edmonton City Centre,FastAPI,0
+Sharetea Edmonton City Centre,Flask,0
+Sharetea Edmonton City Centre,Django,0
+Sharetea Edmonton City Centre,Docker,0
+Sharetea Edmonton City Centre,Kubernetes,0
+Sharetea Edmonton City Centre,AWS,0
+Sharetea Edmonton City Centre,Azure,0
+Sharetea Edmonton City Centre,GCP,0
+Sharetea Edmonton City Centre,Git,0
+Sharetea Edmonton City Centre,Linux,0
+Sharetea Edmonton City Centre,React,0
+Sharetea Edmonton City Centre,JavaScript,0
+Sharetea Edmonton City Centre,TypeScript,0
+Sharetea Edmonton City Centre,Node.js,0
+Sharetea Edmonton City Centre,MongoDB,0
+Sharetea Edmonton City Centre,PostgreSQL,0
+Sharetea Edmonton City Centre,MySQL,0
+Sharetea Edmonton City Centre,Redis,0
+Sharetea Edmonton City Centre,Kafka,0
+Sharetea Edmonton City Centre,Spark,0
+Sharetea Edmonton City Centre,Airflow,0
+Sharetea Edmonton City Centre,TensorFlow,0
+Sharetea Edmonton City Centre,PyTorch,0
+Sharetea Edmonton City Centre,Power BI,0
+Sharetea Edmonton City Centre,Tableau,0
+Sharetea Edmonton City Centre,Excel,0
+Sharetea Edmonton City Centre,REST,0
+Sharetea Edmonton City Centre,GraphQL,0
+Simple Speaker,Git,1
+Simple Speaker,Python,0
+Simple Speaker,SQL,0
+Simple Speaker,Pandas,0
+Simple Speaker,NumPy,0
+Simple Speaker,FastAPI,0
+Simple Speaker,Flask,0
+Simple Speaker,Django,0
+Simple Speaker,Docker,0
+Simple Speaker,Kubernetes,0
+Simple Speaker,AWS,0
+Simple Speaker,Azure,0
+Simple Speaker,GCP,0
+Simple Speaker,Linux,0
+Simple Speaker,React,0
+Simple Speaker,JavaScript,0
+Simple Speaker,TypeScript,0
+Simple Speaker,Node.js,0
+Simple Speaker,MongoDB,0
+Simple Speaker,PostgreSQL,0
+Simple Speaker,MySQL,0
+Simple Speaker,Redis,0
+Simple Speaker,Kafka,0
+Simple Speaker,Spark,0
+Simple Speaker,Airflow,0
+Simple Speaker,TensorFlow,0
+Simple Speaker,PyTorch,0
+Simple Speaker,Power BI,0
+Simple Speaker,Tableau,0
+Simple Speaker,Excel,0
+Simple Speaker,REST,0
+Simple Speaker,GraphQL,0
+Speculative,Git,1
+Speculative,Excel,1
+Speculative,REST,1
+Speculative,Python,0
+Speculative,SQL,0
+Speculative,Pandas,0
+Speculative,NumPy,0
+Speculative,FastAPI,0
+Speculative,Flask,0
+Speculative,Django,0
+Speculative,Docker,0
+Speculative,Kubernetes,0
+Speculative,AWS,0
+Speculative,Azure,0
+Speculative,GCP,0
+Speculative,Linux,0
+Speculative,React,0
+Speculative,JavaScript,0
+Speculative,TypeScript,0
+Speculative,Node.js,0
+Speculative,MongoDB,0
+Speculative,PostgreSQL,0
+Speculative,MySQL,0
+Speculative,Redis,0
+Speculative,Kafka,0
+Speculative,Spark,0
+Speculative,Airflow,0
+Speculative,TensorFlow,0
+Speculative,PyTorch,0
+Speculative,Power BI,0
+Speculative,Tableau,0
+Speculative,GraphQL,0
+Stok,Git,1
+Stok,Python,0
+Stok,SQL,0
+Stok,Pandas,0
+Stok,NumPy,0
+Stok,FastAPI,0
+Stok,Flask,0
+Stok,Django,0
+Stok,Docker,0
+Stok,Kubernetes,0
+Stok,AWS,0
+Stok,Azure,0
+Stok,GCP,0
+Stok,Linux,0
+Stok,React,0
+Stok,JavaScript,0
+Stok,TypeScript,0
+Stok,Node.js,0
+Stok,MongoDB,0
+Stok,PostgreSQL,0
+Stok,MySQL,0
+Stok,Redis,0
+Stok,Kafka,0
+Stok,Spark,0
+Stok,Airflow,0
+Stok,TensorFlow,0
+Stok,PyTorch,0
+Stok,Power BI,0
+Stok,Tableau,0
+Stok,Excel,0
+Stok,REST,0
+Stok,GraphQL,0
+Technical Lead,Python,0
+Technical Lead,SQL,0
+Technical Lead,Pandas,0
+Technical Lead,NumPy,0
+Technical Lead,FastAPI,0
+Technical Lead,Flask,0
+Technical Lead,Django,0
+Technical Lead,Docker,0
+Technical Lead,Kubernetes,0
+Technical Lead,AWS,0
+Technical Lead,Azure,0
+Technical Lead,GCP,0
+Technical Lead,Git,0
+Technical Lead,Linux,0
+Technical Lead,React,0
+Technical Lead,JavaScript,0
+Technical Lead,TypeScript,0
+Technical Lead,Node.js,0
+Technical Lead,MongoDB,0
+Technical Lead,PostgreSQL,0
+Technical Lead,MySQL,0
+Technical Lead,Redis,0
+Technical Lead,Kafka,0
+Technical Lead,Spark,0
+Technical Lead,Airflow,0
+Technical Lead,TensorFlow,0
+Technical Lead,PyTorch,0
+Technical Lead,Power BI,0
+Technical Lead,Tableau,0
+Technical Lead,Excel,0
+Technical Lead,REST,0
+Technical Lead,GraphQL,0
+Testing,Git,1
+Testing,Python,0
+Testing,SQL,0
+Testing,Pandas,0
+Testing,NumPy,0
+Testing,FastAPI,0
+Testing,Flask,0
+Testing,Django,0
+Testing,Docker,0
+Testing,Kubernetes,0
+Testing,AWS,0
+Testing,Azure,0
+Testing,GCP,0
+Testing,Linux,0
+Testing,React,0
+Testing,JavaScript,0
+Testing,TypeScript,0
+Testing,Node.js,0
+Testing,MongoDB,0
+Testing,PostgreSQL,0
+Testing,MySQL,0
+Testing,Redis,0
+Testing,Kafka,0
+Testing,Spark,0
+Testing,Airflow,0
+Testing,TensorFlow,0
+Testing,PyTorch,0
+Testing,Power BI,0
+Testing,Tableau,0
+Testing,Excel,0
+Testing,REST,0
+Testing,GraphQL,0
+Total Rewards Manager,Git,1
+Total Rewards Manager,Power BI,1
+Total Rewards Manager,Excel,1
+Total Rewards Manager,Python,0
+Total Rewards Manager,SQL,0
+Total Rewards Manager,Pandas,0
+Total Rewards Manager,NumPy,0
+Total Rewards Manager,FastAPI,0
+Total Rewards Manager,Flask,0
+Total Rewards Manager,Django,0
+Total Rewards Manager,Docker,0
+Total Rewards Manager,Kubernetes,0
+Total Rewards Manager,AWS,0
+Total Rewards Manager,Azure,0
+Total Rewards Manager,GCP,0
+Total Rewards Manager,Linux,0
+Total Rewards Manager,React,0
+Total Rewards Manager,JavaScript,0
+Total Rewards Manager,TypeScript,0
+Total Rewards Manager,Node.js,0
+Total Rewards Manager,MongoDB,0
+Total Rewards Manager,PostgreSQL,0
+Total Rewards Manager,MySQL,0
+Total Rewards Manager,Redis,0
+Total Rewards Manager,Kafka,0
+Total Rewards Manager,Spark,0
+Total Rewards Manager,Airflow,0
+Total Rewards Manager,TensorFlow,0
+Total Rewards Manager,PyTorch,0
+Total Rewards Manager,Tableau,0
+Total Rewards Manager,REST,0
+Total Rewards Manager,GraphQL,0
+UX UI Designer,Python,1
+UX UI Designer,Git,1
+UX UI Designer,SQL,0
+UX UI Designer,Pandas,0
+UX UI Designer,NumPy,0
+UX UI Designer,FastAPI,0
+UX UI Designer,Flask,0
+UX UI Designer,Django,0
+UX UI Designer,Docker,0
+UX UI Designer,Kubernetes,0
+UX UI Designer,AWS,0
+UX UI Designer,Azure,0
+UX UI Designer,GCP,0
+UX UI Designer,Linux,0
+UX UI Designer,React,0
+UX UI Designer,JavaScript,0
+UX UI Designer,TypeScript,0
+UX UI Designer,Node.js,0
+UX UI Designer,MongoDB,0
+UX UI Designer,PostgreSQL,0
+UX UI Designer,MySQL,0
+UX UI Designer,Redis,0
+UX UI Designer,Kafka,0
+UX UI Designer,Spark,0
+UX UI Designer,Airflow,0
+UX UI Designer,TensorFlow,0
+UX UI Designer,PyTorch,0
+UX UI Designer,Power BI,0
+UX UI Designer,Tableau,0
+UX UI Designer,Excel,0
+UX UI Designer,REST,0
+UX UI Designer,GraphQL,0
+User Researcher,Git,1
+User Researcher,Excel,1
+User Researcher,REST,1
+User Researcher,Python,0
+User Researcher,SQL,0
+User Researcher,Pandas,0
+User Researcher,NumPy,0
+User Researcher,FastAPI,0
+User Researcher,Flask,0
+User Researcher,Django,0
+User Researcher,Docker,0
+User Researcher,Kubernetes,0
+User Researcher,AWS,0
+User Researcher,Azure,0
+User Researcher,GCP,0
+User Researcher,Linux,0
+User Researcher,React,0
+User Researcher,JavaScript,0
+User Researcher,TypeScript,0
+User Researcher,Node.js,0
+User Researcher,MongoDB,0
+User Researcher,PostgreSQL,0
+User Researcher,MySQL,0
+User Researcher,Redis,0
+User Researcher,Kafka,0
+User Researcher,Spark,0
+User Researcher,Airflow,0
+User Researcher,TensorFlow,0
+User Researcher,PyTorch,0
+User Researcher,Power BI,0
+User Researcher,Tableau,0
+User Researcher,GraphQL,0
+Ut Facere Aut,Git,1
+Ut Facere Aut,Python,0
+Ut Facere Aut,SQL,0
+Ut Facere Aut,Pandas,0
+Ut Facere Aut,NumPy,0
+Ut Facere Aut,FastAPI,0
+Ut Facere Aut,Flask,0
+Ut Facere Aut,Django,0
+Ut Facere Aut,Docker,0
+Ut Facere Aut,Kubernetes,0
+Ut Facere Aut,AWS,0
+Ut Facere Aut,Azure,0
+Ut Facere Aut,GCP,0
+Ut Facere Aut,Linux,0
+Ut Facere Aut,React,0
+Ut Facere Aut,JavaScript,0
+Ut Facere Aut,TypeScript,0
+Ut Facere Aut,Node.js,0
+Ut Facere Aut,MongoDB,0
+Ut Facere Aut,PostgreSQL,0
+Ut Facere Aut,MySQL,0
+Ut Facere Aut,Redis,0
+Ut Facere Aut,Kafka,0
+Ut Facere Aut,Spark,0
+Ut Facere Aut,Airflow,0
+Ut Facere Aut,TensorFlow,0
+Ut Facere Aut,PyTorch,0
+Ut Facere Aut,Power BI,0
+Ut Facere Aut,Tableau,0
+Ut Facere Aut,Excel,0
+Ut Facere Aut,REST,0
+Ut Facere Aut,GraphQL,0
+Various,Python,0
+Various,SQL,0
+Various,Pandas,0
+Various,NumPy,0
+Various,FastAPI,0
+Various,Flask,0
+Various,Django,0
+Various,Docker,0
+Various,Kubernetes,0
+Various,AWS,0
+Various,Azure,0
+Various,GCP,0
+Various,Git,0
+Various,Linux,0
+Various,React,0
+Various,JavaScript,0
+Various,TypeScript,0
+Various,Node.js,0
+Various,MongoDB,0
+Various,PostgreSQL,0
+Various,MySQL,0
+Various,Redis,0
+Various,Kafka,0
+Various,Spark,0
+Various,Airflow,0
+Various,TensorFlow,0
+Various,PyTorch,0
+Various,Power BI,0
+Various,Tableau,0
+Various,Excel,0
+Various,REST,0
+Various,GraphQL,0
+Vehicle Repair Assessor Philippines,Excel,1
+Vehicle Repair Assessor Philippines,Python,0
+Vehicle Repair Assessor Philippines,SQL,0
+Vehicle Repair Assessor Philippines,Pandas,0
+Vehicle Repair Assessor Philippines,NumPy,0
+Vehicle Repair Assessor Philippines,FastAPI,0
+Vehicle Repair Assessor Philippines,Flask,0
+Vehicle Repair Assessor Philippines,Django,0
+Vehicle Repair Assessor Philippines,Docker,0
+Vehicle Repair Assessor Philippines,Kubernetes,0
+Vehicle Repair Assessor Philippines,AWS,0
+Vehicle Repair Assessor Philippines,Azure,0
+Vehicle Repair Assessor Philippines,GCP,0
+Vehicle Repair Assessor Philippines,Git,0
+Vehicle Repair Assessor Philippines,Linux,0
+Vehicle Repair Assessor Philippines,React,0
+Vehicle Repair Assessor Philippines,JavaScript,0
+Vehicle Repair Assessor Philippines,TypeScript,0
+Vehicle Repair Assessor Philippines,Node.js,0
+Vehicle Repair Assessor Philippines,MongoDB,0
+Vehicle Repair Assessor Philippines,PostgreSQL,0
+Vehicle Repair Assessor Philippines,MySQL,0
+Vehicle Repair Assessor Philippines,Redis,0
+Vehicle Repair Assessor Philippines,Kafka,0
+Vehicle Repair Assessor Philippines,Spark,0
+Vehicle Repair Assessor Philippines,Airflow,0
+Vehicle Repair Assessor Philippines,TensorFlow,0
+Vehicle Repair Assessor Philippines,PyTorch,0
+Vehicle Repair Assessor Philippines,Power BI,0
+Vehicle Repair Assessor Philippines,Tableau,0
+Vehicle Repair Assessor Philippines,REST,0
+Vehicle Repair Assessor Philippines,GraphQL,0
+Vice President Operations,Git,1
+Vice President Operations,Python,0
+Vice President Operations,SQL,0
+Vice President Operations,Pandas,0
+Vice President Operations,NumPy,0
+Vice President Operations,FastAPI,0
+Vice President Operations,Flask,0
+Vice President Operations,Django,0
+Vice President Operations,Docker,0
+Vice President Operations,Kubernetes,0
+Vice President Operations,AWS,0
+Vice President Operations,Azure,0
+Vice President Operations,GCP,0
+Vice President Operations,Linux,0
+Vice President Operations,React,0
+Vice President Operations,JavaScript,0
+Vice President Operations,TypeScript,0
+Vice President Operations,Node.js,0
+Vice President Operations,MongoDB,0
+Vice President Operations,PostgreSQL,0
+Vice President Operations,MySQL,0
+Vice President Operations,Redis,0
+Vice President Operations,Kafka,0
+Vice President Operations,Spark,0
+Vice President Operations,Airflow,0
+Vice President Operations,TensorFlow,0
+Vice President Operations,PyTorch,0
+Vice President Operations,Power BI,0
+Vice President Operations,Tableau,0
+Vice President Operations,Excel,0
+Vice President Operations,REST,0
+Vice President Operations,GraphQL,0
+Vice President of Customer Growth,Git,1
+Vice President of Customer Growth,Python,0
+Vice President of Customer Growth,SQL,0
+Vice President of Customer Growth,Pandas,0
+Vice President of Customer Growth,NumPy,0
+Vice President of Customer Growth,FastAPI,0
+Vice President of Customer Growth,Flask,0
+Vice President of Customer Growth,Django,0
+Vice President of Customer Growth,Docker,0
+Vice President of Customer Growth,Kubernetes,0
+Vice President of Customer Growth,AWS,0
+Vice President of Customer Growth,Azure,0
+Vice President of Customer Growth,GCP,0
+Vice President of Customer Growth,Linux,0
+Vice President of Customer Growth,React,0
+Vice President of Customer Growth,JavaScript,0
+Vice President of Customer Growth,TypeScript,0
+Vice President of Customer Growth,Node.js,0
+Vice President of Customer Growth,MongoDB,0
+Vice President of Customer Growth,PostgreSQL,0
+Vice President of Customer Growth,MySQL,0
+Vice President of Customer Growth,Redis,0
+Vice President of Customer Growth,Kafka,0
+Vice President of Customer Growth,Spark,0
+Vice President of Customer Growth,Airflow,0
+Vice President of Customer Growth,TensorFlow,0
+Vice President of Customer Growth,PyTorch,0
+Vice President of Customer Growth,Power BI,0
+Vice President of Customer Growth,Tableau,0
+Vice President of Customer Growth,Excel,0
+Vice President of Customer Growth,REST,0
+Vice President of Customer Growth,GraphQL,0
+Video Editor,Git,1
+Video Editor,Excel,1
+Video Editor,Python,0
+Video Editor,SQL,0
+Video Editor,Pandas,0
+Video Editor,NumPy,0
+Video Editor,FastAPI,0
+Video Editor,Flask,0
+Video Editor,Django,0
+Video Editor,Docker,0
+Video Editor,Kubernetes,0
+Video Editor,AWS,0
+Video Editor,Azure,0
+Video Editor,GCP,0
+Video Editor,Linux,0
+Video Editor,React,0
+Video Editor,JavaScript,0
+Video Editor,TypeScript,0
+Video Editor,Node.js,0
+Video Editor,MongoDB,0
+Video Editor,PostgreSQL,0
+Video Editor,MySQL,0
+Video Editor,Redis,0
+Video Editor,Kafka,0
+Video Editor,Spark,0
+Video Editor,Airflow,0
+Video Editor,TensorFlow,0
+Video Editor,PyTorch,0
+Video Editor,Power BI,0
+Video Editor,Tableau,0
+Video Editor,REST,0
+Video Editor,GraphQL,0
+WAREHOUSE OFFICER,Python,0
+WAREHOUSE OFFICER,SQL,0
+WAREHOUSE OFFICER,Pandas,0
+WAREHOUSE OFFICER,NumPy,0
+WAREHOUSE OFFICER,FastAPI,0
+WAREHOUSE OFFICER,Flask,0
+WAREHOUSE OFFICER,Django,0
+WAREHOUSE OFFICER,Docker,0
+WAREHOUSE OFFICER,Kubernetes,0
+WAREHOUSE OFFICER,AWS,0
+WAREHOUSE OFFICER,Azure,0
+WAREHOUSE OFFICER,GCP,0
+WAREHOUSE OFFICER,Git,0
+WAREHOUSE OFFICER,Linux,0
+WAREHOUSE OFFICER,React,0
+WAREHOUSE OFFICER,JavaScript,0
+WAREHOUSE OFFICER,TypeScript,0
+WAREHOUSE OFFICER,Node.js,0
+WAREHOUSE OFFICER,MongoDB,0
+WAREHOUSE OFFICER,PostgreSQL,0
+WAREHOUSE OFFICER,MySQL,0
+WAREHOUSE OFFICER,Redis,0
+WAREHOUSE OFFICER,Kafka,0
+WAREHOUSE OFFICER,Spark,0
+WAREHOUSE OFFICER,Airflow,0
+WAREHOUSE OFFICER,TensorFlow,0
+WAREHOUSE OFFICER,PyTorch,0
+WAREHOUSE OFFICER,Power BI,0
+WAREHOUSE OFFICER,Tableau,0
+WAREHOUSE OFFICER,Excel,0
+WAREHOUSE OFFICER,REST,0
+WAREHOUSE OFFICER,GraphQL,0
