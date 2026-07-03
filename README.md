@@ -142,7 +142,7 @@ The dashboard includes:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/job-skill-tracker.git
+git clone https://github.com/hina6198/job-skill-tracker.git
 ```
 
 ---
