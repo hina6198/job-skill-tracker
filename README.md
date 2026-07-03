@@ -220,11 +220,3 @@ http://localhost:5173
 
 BS Computer Science Student
 
-GitHub:
-https://github.com/YOUR_USERNAME
-
----
-
-## 📄 License
-
-This project is created for educational and portfolio purposes.
